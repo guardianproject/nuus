@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/" xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#">
+
+
+
+
+    
+
+
+
+
+<channel rdf:about="https://www.rfa.org/english/RSS">
+  <title>RFA Home</title>
+  <link>https://www.rfa.org</link>
+
+  <description>
+    
+      RFA is a private, nonprofit corporation that broadcasts news and information to listeners in Asian countries where full, accurate, and timely news reports are unavailable.
+    
+  </description>
+  
+
+  
+            <syn:updatePeriod>hourly</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2012-05-16T23:01:44Z</syn:updateBase>
+        
+
+  <image rdf:resource="/english/images/rfa-logo-400.jpg"/>
+
+  <items>
+    <rdf:Seq>
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/korea/nk-pyongsan-uranium-08282019180529.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/vietnam/southchina-sea-malaysia-08282019191927.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/tibet/sichuan-yachengar-08282019173854.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/cambodia/restrictions-08282019172340.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/myanmar/myanmar-army-sues-kachin-pastor-08282019170236.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/myanmar/bodies-of-four-victims-recovered-08282019162618.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/uyghur/letter-08282019154954.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/china/philippines-apology-08282019154628.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/vietnam/australia-vietnam-laos-hr-dialogue-08282019151620.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/cartoons/fentanyl-china-cartoon-08282019145726.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/china/hongkong-rally-08282019134512.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/china/thinktank-closed-08282019131354.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/laos/troops-08272019175857.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/myanmar/ongoing-clashes-in-myanmars-rakhine-state-08272019170323.html"/>
+          
+      
+      
+	      
+		      <rdf:li rdf:resource="https://www.rfa.org/english/news/laos/migrants-08272019160657.html"/>
+          
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/korea/nk-pyongsan-uranium-08282019180529.html">
+		<title>South Korea Analyzes Seawater for Nuclear Waste Contamination from North Korean Uranium Mine</title>
+    <link>https://www.rfa.org/english/news/korea/nk-pyongsan-uranium-08282019180529.html</link>
+    <description>Waste may have leaked from a pipeline into a river that flows into the Yellow Sea.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/korea/nk-pyongsan-uranium-08282019180529.html/pyongsan-uranium-nk.jpg"></img><p>The government of South Korea is conducting analyses on seawater samples taken from the Yellow sea, situated west of the Korean peninsula, after a report by RFA’s Korean Service raised the possibility of radioactive waste from a uranium mine in North Korea flowing into the sea.</p>
+<p>RFA’s report published on August 15<sup> </sup>said that waste from the Pyongsan uranium mine in North Hwanghae province, and its ore milling process, were leaking from a pipeline constructed over the Ryesong river, with the potential to contaminate downstream locations including the sea. It cited claims by Jacob Vogel, a U.S.-based North Korea expert.</p>
+<p>The river flows south into the estuary where the Han river meets the sea. The estuary is divided by the de-facto maritime border between the two Koreas, called the Northern Limit Line (NLL) in the South.</p>
+<p>“We collected the seawater near the NLL on the morning of August 23<sup>rd</sup>, and we are already analyzing [the samples],” said Lee Sang-min, a spokesperson for South Korea’s Unification Ministry.</p>
+<p>“The analysis will take about two weeks,” said the spokesperson, adding that the ministry would release more details once the study is complete.</p>
+<p>The ministry also said on a social networking site on Aug. 23 that it would also collect and analyze seawater from six other locations near the NLL.</p>
+<p>During a press briefing, Lee said that Pyongsan has only uranium mines and uranium mills, and that experts are advising the government that radioactive contaminants in those types of facilities cannot harm the human body.</p>
+<p>Regardless, concerned voices in the public sector are calling for accurate fact-finding missions to ensure public safety.</p>
+<p>Shin Yong-hyeon, a spokesperson for South Korea’s opposition Bareunmirae Party, said during a party meeting Tuesday that the decision to analyze the seawater was a belated response.</p>
+<p>Meanwhile the <i>Seoul Shinmun</i> newspaper published an article by the Institute of Korean Studies’ Park Sang-Eun Monday which urged the South Korean government to conduct an investigation into the matter with private scholars.</p>
+<p>Experts in South Korea point out that there is a need to confirm North Korean authorities are properly managing the mine, because even a tiny amount of radiation could be harmful if it is stored in the human body for a long period of time.</p>
+<p>Kim Ik-jung, a former medical professor at Seoul’s Dongguk University who served as a member of the Nuclear Safety and Security Commission, told RFA that North Korean authorities had a responsibility to ensure the safety of the mine.</p>
+<p>“Poor post-management of inactive mines often leads to river water contamination,” said Kim.</p>
+<p>“If North Korea is actually digging up uranium there, they are obliged to do a number of things to verify the safety of the mines and to secure them.”</p>
+<p><b><i>Reported by Seoung Wook Hong for RFA’s Korean Service. Translated by Leejin Jun. Written in English by Eugene Whong.</i></b></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>pollution</dc:subject>
+    
+    
+      <dc:subject>nuclear</dc:subject>
+    
+    <dc:date>2019-08-29T01:07:58Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/vietnam/southchina-sea-malaysia-08282019191927.html">
+		<title>Malaysia, Vietnam Voice ‘Serious Concern’ About South China Sea</title>
+    <link>https://www.rfa.org/english/news/vietnam/southchina-sea-malaysia-08282019191927.html</link>
+    <description>Disputes should be resolved through peaceful means, Prime Ministers Mahathir Mohamad and Nguyen Xuan Phuc say.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/vietnam/southchina-sea-malaysia-08282019191927.html/vn-my.jpg"></img><p>Malaysia and Vietnam on Wednesday expressed “serious concern over recent developments in the South China Sea” after Chinese vessels challenged their energy assets and sea boundaries in the disputed region.</p>
+<p>The two countries issued a joint statement underscoring “the importance” of maintaining peace, stability, security and the rule of law in the vast sea in conjunction with a three-day visit to Vietnam by Malaysian Prime Minister Mahathir Mohamad.</p>
+<p>Mahathir held talks with his Vietnamese counterpart Nguyen Xuan Phuc on Tuesday, after which Phuc said the two countries would work closely with other Southeast Asian nations to ensure freedom of navigation and overflight in disputed areas in the South China Sea, Malaysian media reported.</p>
+<p>In their statement, Malaysia and Vietnam also emphasized “the importance of self-restraint, non-militarization” and “avoidance of activities that may escalate tensions.”</p>
+<p>The statement came as a Chinese survey vessel extended its activities to an area closer to Vietnam's coastline at the weekend and the Chinese coast guard tracked around an oil rig on Malaysia’s continental shelf.</p>
+<p>The Haiyang Dizhi 8 vessel first entered Vietnam's exclusive economic zone early last month for seismic survey, triggering a tense standoff between military and coast guard vessels from Vietnam and China.</p>
+<p>Hanoi described the incursions as a “serious violation” of Vietnamese sovereignty and demanded that Beijing remove the vessel.</p>
+<p>The United States accused China of using “bullying tactics” by carrying out "coercive interference" in oil and gas activities in waters claimed by Vietnam.</p>
+<p>China claims nearly all of the South China Sea. The Philippines, Taiwan, Brunei, Malaysia and Vietnam also have overlapping territorial claims to the sea, which is vital to international shipping and trade.</p>
+<p>Meanwhile, a Chinese survey ship, “Shiyan 2,” was spotted operating in Malaysia’s EEZ near the Luconia Breakers, according to information posted on Twitter on Aug. 4 by Ryan Martinson, a professor at the U.S. Naval College in Washington. On Aug. 9, he reported that the same ship was continuing to operate in the EEZ, which lies off Sarawak state in Malaysian Borneo.</p>
+<p>On Aug. 14, Martinson posted more information saying that another Chinese survey ship, “Haiyang 4,” was heading to Malaysia’s exclusive zone.</p>
+<p>Malaysian officials have not confirmed the reports about the alleged intrusions but told BenarNews, an RFA-affiliated online news service, that they would look into them.</p>
+<p>Malaysian Foreign Minister Saifuddin Abdullah said recently that the 2002 Declaration of Conduct Parties, which set loose guidelines of behavior by claimant nations in the sea region, had “no fangs” and Beijing’s militarization could potentially escalate regional tensions.</p>
+<p>In their joint statement Wednesday, Kuala Lumpur and Hanoi underlined support for the full and effective implementation of a code of conduct in the sea region.<br/><br/>“The two sides agreed that disputes shall be resolved through peaceful means, including full respect for legal and diplomatic processes, without resorting to the threat or use or force,” the statement said.</p>
+<p>China has built numerous military installations with advanced ballistic-missile capabilities on reclaimed islands under its control in the South China Sea.</p>
+<p><i><strong>Reported by BenarNews, an RFA-affiliated online news service.</strong></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-08-28T23:27:45Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/tibet/sichuan-yachengar-08282019173854.html">
+		<title>Photo Shows Dramatic Demolition of Yachen Gar Buddhist Complex</title>
+    <link>https://www.rfa.org/english/news/tibet/sichuan-yachengar-08282019173854.html</link>
+    <description>A vast expanse of grass is all that remains of half the complex in Sichuan. </description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/tibet/sichuan-yachengar-08282019173854.html/tibet-complex.jpg"></img><p>Rapid demolition at the Yachen Gar Tibetan Buddhist center in western China’s Sichuan province has raised nearly half of the sprawling complex, leaving a vast patch of grass where thousands on nuns and monks once lived and studied, sources in the region told RFA’s Tibetan Service.</p>
+<p>"Almost half of the entire Yachen Gar complex has been razed since the demolition of the nuns' dwellings began in July,” said a source in Tibet.</p>
+<p>Demolition of the nuns’ dwellings the sprawling center in Palyul (in Chinese, Baidu) county began on July 19 and moved ahead quickly, with at least 100 structures now torn down, a Tibetan living in the area told RFA last month.</p>
+<p>The destruction follows the forced removal beginning in May of over 7,000 residents of Yachen Gar, which once housed around 10,000 monks and nuns devoted to scriptural study and meditation.</p>
+<p>A short video clip taken on August 11 and sent to RFA shows that Chinese authorities moved quickly with the demolition, leaving only barren ground where the dwellings were leveled.</p>
+<p>A photo of Yachen Gar received by RFA on Tuesday shows a clear flat site where the 3000 nuns’ dwellings once stood.</p>
+<p>"The Chinese authorities took days to clear the wreckage of Yachen Gar. Now in its place, they have planted grass, and the ground is covered by green plastic," said a source in exile, who spoke to contacts in Tibet.</p>
+<p>"Almost half of the Yachen Gar complex has been destroyed,” said the source in Tibet.</p>
+<p>“It takes a walk of about 20-30 minutes to cover the entire length of the leveled ground," said the source.</p>
+<p>"The Chinese authorities have cordoned off the areas from pedestrians and also to foster the growth of grass,” added the source.</p>
+<p>"The Chinese authorities still intend to destroy more monks’ dwellings in other parts of Yachen Gar. However, due to repeated appeals by senior monks, it is temporarily put on hold,” said the source in Tibet.</p>
+<p>“A definitive and stern order from high-level authorities would easily break the truce,” added the source.</p>
+<p>Many of those expelled from Yachen Gar are now being held in detention and subjected to political re-education and beatings, sources told RFA in earlier reports.</p>
+<p>Chinese officials have meanwhile been stationed at the center to “maintain a tight watch” over those who remain and to check on all outside visitors, while travel to and from the center is strictly monitored and restricted, sources say.</p>
+<p>Restrictions on Yachen Gar and the better-known Larung Gar complex in Sichuan’s Serthar (Seda) county are part of “an unfolding political strategy” aimed at controlling the influence and growth of these important centers for Tibetan Buddhist study and practice, a Tibetan advocacy group said in a March 2017 report.</p>
+<p>“[Both centers] have drawn thousands of Chinese practitioners to study Buddhist ethics and receive spiritual teaching since their establishment, and have bridged Tibetan and Chinese communities,” the Washington-based International Campaign for Tibet said.<br/> <br/> During 2017 and 2018, at least 4,820 Tibetan and Han Chinese monks and nuns were removed from Larung Gar, with over 7,000 dwellings and other structures torn down beginning in 2001, according to sources in the region.</p>
+<p><b><i>Reported by Kunsang Tenzin for RFA’s Tibetan Service. Translated by Dorjee Damdul. Written in English by Paul Eckert.</i></b></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-08-28T21:46:09Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/cambodia/restrictions-08282019172340.html">
+		<title>NGO Urges Tightened Restrictions on Influx of Chinese Nationals to Cambodia</title>
+    <link>https://www.rfa.org/english/news/cambodia/restrictions-08282019172340.html</link>
+    <description>Adhoc’s Soeng Senkaruna says the Chinese community is lawless and causing ‘anarchy’ in his country.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/cambodia/deport-11282018153210.html/khmer-takeo2-112818.jpg"></img><p>Cambodia should tighten restrictions on the influx of Chinese nationals to the country, according to a local rights group, which says the community is responsible for rampant violent crime and loose ethics that are contributing to the downfall of society.<br/><br/>Many Chinese nationals living in Cambodia are part of criminal gangs and “carry illegal weapons, which they use freely,” causing Cambodian residents in several provinces to fear for their safety, Soeng Senkaruna of local rights group Adhoc recently told RFA’s Khmer Service.<br/><br/>“We have seen Chinese nationals causing a lot of difficulties in terms of social insecurity—getting involved in illegal activities and so on—and the authorities having to take action against them,” he said.<br/><br/>“They are involved in cybercrimes and unethical driving behavior, and regularly resort to violence, such as chopping and stabbing people at entertainment centers. These bad behaviors have led to anarchy in our Cambodian society.”<br/><br/>Soeng Senkaruna expressed concern over China’s population of more than 1 billion people, compared to Cambodia’s population of slightly more than 15 million, and suggested that Cambodia is likely to “lose many of its natural resources” because of an increase of Chinese immigrants.<br/><br/>A recent report by the National Police, under Cambodia’s Ministry of the Interior, said that there are some 250,000 Chinese nationals living in Cambodia, including around 100,000 each in the capital Phnom Penh and Preah Sihanouk province.<br/><br/>Chinese investment has flowed into casinos, hotels, and real estate in Cambodia—particularly in Preah Sihanouk province and its largest town, Sihanoukville, turning the once sleepy seaside town into a flash point for Cambodians concerned about Chinese economic penetration of their country.<br/><br/>Cambodians complain about unscrupulous business practices, gangland violence, and unbecoming behavior by growing crowds of Chinese investors and tourists drawn to Sihanoukville and a nearby Chinese Special Economic Zone connected to Beijing’s Belt and Road global infrastructure initiative.<br/><br/>“If we freely allow the influx of the Chinese immigrants, I am strongly concerned that we will be forced to fight against an occupation of our country,” Soeng Senkaruna said.<br/><br/>“We’ve already seen the seizure of the natural resources of our nation—including our land, beaches, islands, minerals and forests—and know that the Chinese have been enjoying all of the benefits of Cambodia for a long time.”<br/><br/>Soeng Senkaruna said that the presence of Chinese nationals in Cambodia has “done little to benefit the Cambodian people,” but dismissed any suggestion that Cambodians are prejudiced against their community.<br/><br/>“We don’t discriminate against any nation, in accordance with respect for human rights,” he said.<br/><br/>“We welcome all nationals who come to our country, provided they respect the rights of the Cambodian people, their morals, and their various traditions.”<br/><br/>Soeng Senkaruna also urged Cambodian authorities to prosecute Chinese nationals who are suspected of having committed crimes before deporting them to China, saying they are likely to engage in the same kinds of activity if they are not punished when they return home.<br/><br/>“We don’t follow up on whether the persons who [are believed to have] committed crimes in Cambodia have actually been punished in their homeland or not,” he said.<br/><br/>China and Cambodia have an extradition treaty, and Chinese nationals who are suspected of having committed crimes in Cambodia are regularly sent home after their arrest.<br/><br/>On Wednesday, the Ministry of the Interior deported 150 Chinese nationals arrested this month who are believed to have engaged in telecommunications scams on a special flight arranged by China’s Ministry of Public Security.<br/><br/>Authorities in Cambodia deported 235 Chinese nationals accused of extortion in November 2018, after sending home at least 373 Chinese nationals accused of internet scams and kidnapping from Preah Sihanouk’s capital Sihanoukville alone between January and October.<br/><br/><b>Officials respond</b><br/><br/>Ath Bony of the Ministry of the Interior’s General Department of Immigration sought to downplay fears over Chinese nationals in Cambodia on Wednesday, saying that the community has brought investment to the country and provided many jobs for Cambodians.<br/><br/>“There is nothing to worry about for the Khmer people because this is the general evolution of the world,” he said, without elaborating.<br/><br/>Ath Bony’s comments follow those of several other high-ranking Cambodian officials—including Prime Minister Hun Sen—who have defended Chinese investment in the country, despite the concerns of local residents.<br/><br/>Yun Min, the former governor of Preah Sihanouk, submitted a report in January this year to Interior Minister Sar Kheng in which he raised strong concerns over the negative perception of the growing Chinese population in the province.<br/><br/>In his report, Yun Min said that while some Chinese nationals were involved in organized crime and extortion, much of the conflict between Cambodians and Chinese immigrants to the region stemmed from petty disputes.<br/><br/>Yun Min resigned from his post after a Chinese-owned unlicensed seven-story building collapsed in Sihanoukville in June, killing 28 people and injuring 26—many of whom were construction workers sleeping on the second floor at the time of the incident.<br/><br/>He was later appointed to secretary of state to Cambodia’s Ministry of Defense and promoted as a four-star general, despite anger from the public over his mishandling of the building collapse.<br/><br/><i><b>Reported and translated by Aun Pheap for RFA’s Khmer Service. Written in English by Joshua Lipes.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>regional influence</dc:subject>
+    
+    
+      <dc:subject>chinareachcambodia</dc:subject>
+    
+    
+      <dc:subject>migrant workers</dc:subject>
+    
+    
+      <dc:subject>investment</dc:subject>
+    
+    
+      <dc:subject>fdi</dc:subject>
+    
+    <dc:date>2019-08-28T21:33:07Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/myanmar/myanmar-army-sues-kachin-pastor-08282019170236.html">
+		<title>Myanmar Army Sues Kachin Pastor Over Comments Made to US President Trump</title>
+    <link>https://www.rfa.org/english/news/myanmar/myanmar-army-sues-kachin-pastor-08282019170236.html</link>
+    <description>Rev. Hkalam Samson had appealed to Trump to take action against religious persecution in Myanmar.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/myanmar/myanmar-army-sues-kachin-pastor-08282019170236.html/myanmar-trump-kachin-pastors-dc-july17-2019.jpg"></img><p>The Myanmar military has filed a lawsuit against an ethnic Kachin religious leader for comments he made about human rights violations by soldiers in the Southeast Asian nation during a meeting with U.S. President Donald Trump in July, in the latest defamation complaint to be lodged by the armed forces against its critics.</p>
+<p>Lieutenant Colonel Than Htike from the Northern Command based in northern Myanmar’s Kachin state filed the complaint against Rev. Hkalam Samson, president of the Kachin Baptist Convention (KBC), in Myitkyina Township Court on Monday, the religious leader told RFA’s Myanmar Service.</p>
+<p>He filed the defamation lawsuit based on a live broadcast in which Hkalam Samson, who has faced persecution in predominantly Buddhist Myanmar because of his Christian faith, told Trump that oppression and torture were still common in the country.</p>
+<p>Myanmar’s military, which stands accused of wide-ranging atrocities both in modern times and during its 1962-2011 rule over the country, routinely uses criminal anti-defamation laws to punish its critics.</p>
+<p>During his brief meeting with the American president, Hkalam Samson also thanked Trump for imposing travel bans on top Myanmar military commanders involved in a violent crackdown on Rohingya Muslims in 2017.</p>
+<p>He also appealed to Trump to take action against religious persecution in Myanmar and to support the country’s transition to genuine democracy and federalism during the broadcast, which was posted on the Facebook page of World News Now, the overnight broadcast service of ABC News in the U.S.</p>
+<p>The KBC president, who has not yet received a subpoena from the court, said that his appeal to the U.S. president was not done out of contempt for the Myanmar military.</p>
+<p>“My motivation is to achieve the development of and peace in Myanmar as a genuine democracy and federalist [state],” he said. “I have no grudge or detrimental intention against anyone. I am willingly to settle this prosecution in court. I have no concerns about that.”</p>
+<p>The court will decide whether it will proceed with the case by Sept. 9.</p>
+<p><b>Survivors of religious persecution</b></p>
+<p>Hkalam Samson and Kachin pastor Langjaw Gam Seng, a KBC youth leader, were among a group of more than two dozen survivors of religious persecution who had an unscheduled meeting with Trump on July 17 during an annual U.S. government gathering on religious freedom in Washington.</p>
+<p>Langjaw Gam Seng had been detained in 2016 for taking journalists to see a Catholic church damaged in clashes between the government army and ethnic guerillas in northern Shan state.</p>
+<p>He later was sentenced to two years and three months in jail for violating the Unlawful Associations Act on charges of having provided support to the rebel Kachin Independence Army (KIA).</p>
+<p>Myanmar military spokesman Brigadier General Zaw Min Tun told RFA that he did not know anything about the lawsuit against Hkalam Samson.</p>
+<p>Colonel Tun Nay Linn, commander of the military’s Northern Regional Command, could not be reached for comment.</p>
+<p>Aung San Win, spokesman for Myanmar’s Ministry of Religious Affairs and Culture, declined to comment on the matter.</p>
+<p>Myo Nyunt, spokesman for the ruling National League for Democracy (NLD) party, also declined to comment, saying he was not aware of Hkalam Samson’s statements to the U.S. president. He also said that the religious leader had the right to prove himself innocent during a trial.</p>
+<p>Headquartered in the state capital Myitkyina, the KBC is an evangelical Christian organization that promotes human rights and provides humanitarian assistance to civilians displaced by armed conflict between Myanmar forces and the rebel Kachin Independence Army (KIA).</p>
+<p>Hostilities between the Myanmar Army and KIA resumed in the region in June 2011 following the breakdown of a 17-year bilateral peace accord.</p>
+<p><i><b>Reported by Elizabeth Jangma for RFA’s Myanmar Service. Translated by Ye Kaung Myint Maung. Written in English by Roseanne Gerin.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>military</dc:subject>
+    
+    
+      <dc:subject>defamation</dc:subject>
+    
+    
+      <dc:subject>religion</dc:subject>
+    
+    
+      <dc:subject>kachin</dc:subject>
+    
+    
+      <dc:subject>us</dc:subject>
+    
+    <dc:date>2019-08-28T21:10:00Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/myanmar/bodies-of-four-victims-recovered-08282019162618.html">
+		<title>Bodies of Four Victims Recovered From Myanmar Coal Mine Collapse</title>
+    <link>https://www.rfa.org/english/news/myanmar/bodies-of-four-victims-recovered-08282019162618.html</link>
+    <description>Local police are investigating the incident to make sure the mine was operating according to law. </description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/myanmar/bodies-of-four-victims-recovered-08282019162618.html/myanmar-coal-mine-minhla-twp-magway-region-aug27-2019.jpg"></img><p>Rescue workers have recovered the bodies of four miners killed three days ago in a coal mine collapse in Minhla township of central Myanmar’s Magway region after water from torrential rain breached area levies and poured into the shaft, translators for the company said Wednesday.</p>
+<p>The first two bodies recovered on Monday were identified as those of Soe Aung, 19, from Kyauk Htaung village in Minhla township, and Paing Soe Win, 28, from Hla Kaya village in Ann township, they said.</p>
+<p>Rescuers on Tuesday recovered the bodies of Naing Htet Oo, 20, and Aung Chanthar, 16, both from Ann township, they said.</p>
+<p>The four workers who died were inside the mine’s 600-foot-deep pit when it collapsed, but no details of the causes of death were available.</p>
+<p>On the day the disaster occurred, the Inngyin Taung mining company was conducting a test run of the operations, company translators told RFA’s Myanmar Service.</p>
+<p>The company, which employs some 40 workers, including Chinese technicians, is reportedly owned by a Myanmar national, according to Chinese translators who were on the scene the day after the accident.</p>
+<p>“The water poured down into the mine so rapidly that they could not climb up to escape,” Sai Aung Lwin, a Myanmar translator for the company, later told RFA. “The heavy rain was unexpected and unprecedented. It’s tragic.”</p>
+<p>“We went there, tried to stop the water, and then pumped the water out throughout the night,” said translator Chan Myae. “The flooding was gone the next morning.”</p>
+<p>Local police have opened an investigation into the incident, and mining ministry officials from Naypyidaw have inspected site to determine whether it was operating in accordance with standard procedures, said Myint Zaw, Magwe region’s minister of natural resources and environmental conservation.</p>
+<p>The local government allows small Myanmar businesses to operate mines in Magway region, but not foreign individuals or entities, he said.</p>
+<p>Nine mining companies operate about 40 small and medium-sized coal mines in the Minhla coal-mining area, producing a total of about 2,000 tons of coal per month, according to a report by the online journal <i>The Irrawaddy</i>.</p>
+<p><i><b>Reported by Zaw Tu for RFA’s Myanmar Service. Translated by Nandar Chann. Written in English by Roseanne Gerin.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>coal</dc:subject>
+    
+    
+      <dc:subject>mining</dc:subject>
+    
+    
+      <dc:subject>manmade disaster</dc:subject>
+    
+    
+      <dc:subject>weather</dc:subject>
+    
+    <dc:date>2019-08-28T20:43:40Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/uyghur/letter-08282019154954.html">
+		<title>Uyghur Exile Group Slams ‘Groundless’ Claims by China of Ties to Terrorism Ahead of UN Rights Council</title>
+    <link>https://www.rfa.org/english/news/uyghur/letter-08282019154954.html</link>
+    <description>Beijing’s letter to UN member states is its latest attack on the World Uyghur Congress and its leader, Dolkun Isa.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/uyghur/letter-08282019154954.html/uyghur-dolkun-isa-us-capitol-june-2019.jpg"></img><p>Claims made by China to U.N. member states that the head of a Uyghur exile group is a “terrorist” wanted for criminal activities are “groundless,” his organization said in a statement, suggesting Beijing is seeking to silence criticism of its repressive policies in the Xinjiang Uyghur Autonomous Region (XUAR).<br/><br/>On Aug. 23, the Permanent Mission of the People’s Republic of China to the U.N. Office at Geneva circulated a Note Verbale to all members of the international body urging them to refrain from meeting with Dolkun Isa, the president of the Munich-based World Uyghur Congress (WUC), ahead of his visit to the city for the 42nd session of the Human Rights Council, to be held from Sept. 9-27.<br/><br/>“Dolkun Isa is a notorious anti-China secessionist and terrorist who committed several criminal offenses and conducted violent activities in China,” said the document, a copy of which was provided to RFA’s Uyghur Service by a Geneva-based human rights organization.<br/><br/>“The WUC is an anti-China secessionist organization whose objective is to separate [the] Xinjiang Uyghur Autonomous Region from China,” it continued, calling the group the “political wing of the ‘Eastern Turkistan Islamic Movement,’” which is identified as a terrorist organization by the U.N. Security Council.<br/><br/>China’s mission called on all diplomats of U.N. member states to “reject meeting with Dolkun Isa or his associates from the WUC at any venue,” saying that doing so would run “counter to the purposes and principles of the Charter of the United Nations.”<br/><br/>On Tuesday, the WUC issued a statement in response to China’s appeal, calling the claims “groundless,” and noting that the Chinese government has not responded to “countless requests” to provide evidence for its allegations.<br/><br/>The group quoted Isa who, speaking from Geneva, said he was unsurprised that China “continues desperately to try to silence mere conversation about their appalling treatment of Uyghurs,” including its vast network of internment camps in the XUAR, where where authorities are believed to have held up to 1.5 million people since April 2017.<br/><br/>“It shows clearly how deeply nervous the Chinese government is about activists speaking about the reality on the ground,” Isa said.<br/><br/>“We have an obligation to continue to speak honestly and transparently about it.”<br/><br/>While Beijing initially denied the existence of the camps, China this year changed tack and began describing the facilities as “boarding schools” that provide vocational training for Uyghurs, discourage radicalization, and help protect the country from terrorism.<br/><br/>But reporting by RFA’s Uyghur Service and other media outlets suggest that those in the camps are detained against their will and subjected to political indoctrination, routinely face rough treatment at the hands of their overseers, and endure poor diets and unhygienic conditions in the often overcrowded facilities.<br/><br/>WUC said that assertions in China’s letter are part of a bid to undermine the work of activists who have campaigned for years over the abuse of the Uyghur population, as well as to intimidate individuals and groups who aim to protect and promote human rights.<br/><br/>The group called for “an immediate response from the U.N. human rights system.”<br/><br/><b>Frequent target</b><br/><br/>Isa has come under attack on several occasions by Chinese authorities seeking to undercut his credibility as a spokesperson for the Uyghur people who has highlighted repression in the XUAR.<br/><br/>In February, INTERPOL confirmed that it had deleted a “Red Notice”—an international wanted person alert—for Isa, who fled China in the mid-1990s, for his involvement in peaceful Uyghur student protests in the late 1980s.<br/><br/>Isa, who was granted refugee status in Germany in 1996 and later gained German citizenship, learned in 1999 that China had issued the Red Notice against him, demanding his arrest and extradition back to China to face charges.<br/><br/>As a result of the alert, Isa said he had faced harassment—including detention and arrest—by authorities in South Korea, India, the U.S., Turkey and Italy while advocating for human rights for the Uyghur people.<br/><br/>In May last year, China’s permanent mission to the U.N. urged the Committee on Non-Governmental Organizations under the U.N. Economic and Social Council (ECOSOC) to remove consultative status for Germany-based Society for Threatened Peoples (STP), after the group named Isa as its representative during the U.N. Permanent Forum on Indigenous Issues (UNPFII) a month earlier.<br/><br/>The Chinese delegation claimed that Isa had been “participating, inciting and funding separatism and terrorism for years,” adding that while participating in regional dialogues at UNPFII he had indicated that he was “representing WUC instead of STP,” despite only having accreditation as an STP representative.<br/><br/>In response to the request, Ambassador Kelley Currie, the U.S. Representative for Economic and Social Affairs to the U.N., said she was saddened to see the committee “indulging in the Chinese delegation's Islamophobia, in which they conflate the efforts of an individual to advance the religious and human rights of a persecuted minority in China with terrorism, without providing any substantiated evidence.”<br/><br/>On Tuesday, Farida Dief, New York-based Human Rights Watch’s Canada director, called China’s most recent letter to U.N. member states “very concerning,” noting that Beijing has repeatedly framed its repression of Uyghurs in the XUAR as a type of counter-terrorism effort when “that really has nothing to do with the reality on the ground.”<br/><br/>“The Chinese government frames any expression of Muslim or Uyghur identity as a type of extremism and this is deeply problematic,” she said.<br/><br/>“In terms of Dolkun Isa’s case, it is very alarming the lengths to which the Chinese government will go to vilify this individual, to condemn him with no evidence whatsoever, to try to bully other governments from meeting with him, and using the label of terrorism as a way to justify its actions in Xinjiang and its repression of Uyghurs.”<br/><br/>Dief called on members of the Human Rights Council, as well as permanent missions in Geneva, to make collective efforts to raise the issue of human rights abuses in the XUAR, and urged them to ignore China’s threats against meeting with Isa or other representative of the WUC this month.<br/><br/><b>‘Stain of the century’</b><br/><br/>Mass incarcerations in the XUAR, as well as other policies seen to violate the rights of Uyghurs and other Muslims, have led to increasing calls by the international community to hold Beijing accountable for its actions in the region.<br/><br/>Last month, at the Ministerial to Advance Religious Freedom in Washington, U.S. Secretary of State Mike Pompeo called the internment camps in the XUAR “one of the worst human rights crises of our time” and “truly the stain of the century.”<br/><br/>U.S. Vice President Mike Pence also slammed the camps “where [Uyghurs] endure around-the-clock brainwashing” and survivors have described their experience as “a deliberate attempt by Beijing to strangle Uyghur culture and stamp out the Muslim faith.”<br/><br/>U.S. Ambassador-at-Large for International Religious Freedom Sam Brownback recently told RFA in an interview that countries around the world must speak out on the Uyghur camps, or risk emboldening China and other authoritarian regimes.<br/><br/>The U.S. Congress has also joined in efforts to halt the incarcerations, debating legislation that seeks accountability for China’s harsh crackdown on the Uyghurs. The Uyghur Human Rights Policy Act would appoint a special State Department coordinator on Xinjiang and require regular reports on the camps, the surveillance network, and the security threats posed by the crackdown.<br/><br/><i><b>Reported by Adile Ablet for RFA’s Uyghur Service. Written in English by Joshua Lipes.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>wuc</dc:subject>
+    
+    
+      <dc:subject>dolkun isa</dc:subject>
+    
+    
+      <dc:subject>human rights council</dc:subject>
+    
+    
+      <dc:subject>un</dc:subject>
+    
+    
+      <dc:subject>reeducation camps</dc:subject>
+    
+    
+      <dc:subject>terrorism</dc:subject>
+    
+    
+      <dc:subject>regional influence</dc:subject>
+    
+    
+      <dc:subject>ethnic tension</dc:subject>
+    
+    <dc:date>2019-08-28T19:54:46Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/china/philippines-apology-08282019154628.html">
+		<title>Chinese Shipowner Apologizes Over Ramming, Sinking of Philippine Vessel</title>
+    <link>https://www.rfa.org/english/news/china/philippines-apology-08282019154628.html</link>
+    <description>Apology was contained in a memorandum released by the Philippine government.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/china/philippines-apology-08282019154628.html/phils-vessel.jpg"></img><p style="text-align: left; ">The owner of a Chinese vessel that rammed and sank a Philippine boat in the disputed South China Sea in June has apologized, Manila’s foreign office announced Wednesday, just before President Rodrigo Duterte departed for brief visit to Beijing.</p>
+<p style="text-align: left; ">The sinking of the Filipino vessel on June 9 in a Philippine territory in the South China Sea had triggered anti-Chinese protests here, especially after Duterte told Congress in July that he could not do anything in the face of Chinese aggression. 22 Filipino fishermen were left wading at sea before they were picked up by a passing Vietnamese boat.</p>
+<p style="text-align: left; ">Duterte has since appeared to change his tune, and said that he would raise the territorial dispute issue with China when he meets Chinese leader Xi Jinping this week.</p>
+<p style="text-align: left; ">The incident was an “accidental collision,” according to a memorandum sent to the foreign department by a Chinese association that includes the firm that owned the erring Chinese vessel.</p>
+<p style="text-align: left; ">The department did not answer questions, but said it had translated the “apology” it received.</p>
+<p style="text-align: left; ">“It was fortunate that there were no casualties,” the letter said, as it expressed “deep regret” and “deep sympathy” to the Filipino fishermen. It was signed by Chen Shiquin, president of the Guangdong Fishery Mutual Insurance Association.</p>
+<p style="text-align: left; ">“The shipowner of the Chinese fishing boat involved, through our association, would like to express his sincere apology to the Filipino fishermen,” the memorandum said.</p>
+<p style="text-align: left; ">It said the Chinese vessel involved was registered in Guangdong. The group said that immediately after the accident it had carried out an investigation.</p>
+<p style="text-align: left; ">“We believe that although the accident was an unintentional mistake of the Chinese fishermen, the Chinese fishing boat should however take the major responsibility in the accident,” it said. “The Philippines side is requested to file a specific appeal for civil compensation based on the actual loss.”</p>
+<p style="text-align: left; ">The letter came as Duterte departed Wednesday for China, his fifth visit to the country so far.</p>
+<p style="text-align: left; ">The trip was upon the invitation of Chinese leader Xi Jinping, Duterte’s office said, and would feature a one-on-one meeting later in the week where the two “would discuss the comprehensive strategic cooperation” between both nations.</p>
+<p style="text-align: left; ">Among others topics, Duterte “intends to discuss with President Xi the crafting of a code of conduct in the South China Sea and how they can expedite its conclusion,” presidential spokesman Salvador Panelo said.</p>
+<p style="text-align: left; ">Duterte believes that the absence of the code has caused “numerous conflicts” in the South China Sea, a potentially mineral-rich sea region that hosts some of the world’s busiest shipping lanes, he said.</p>
+<p style="text-align: left; ">China has been dragging its feet on the formulation of the code since talks on regulating the behavior particularly of South China Sea claimants began in 2002 between the Association of Southeast Asian Nations (ASEAN) and Beijing.</p>
+<p style="text-align: left; ">The conflicts, which include the boat collision, could have been prevented “by a document that will regulate their actions,” Panelo said.</p>
+<p style="text-align: left; "><b>Apology accepted by Manila</b></p>
+<p style="text-align: left; ">“In relation to this, we accept the recent apology extended by the owner of the Chinese vessel to our fishermen affected by the incident,” he stressed. “We likewise welcome the owner’s humility to take responsibility and acknowledgement that compensation be provided to cover the actual loss.”</p>
+<p style="text-align: left; ">He said Duterte was also expected to raise with Xi a 2016 ruling by an international arbitration court that threw out China’s expansive claims to the South China Sea. During his annual address to Congress last month, Duterte said he could not do anything to enforce the ruling, noting that he would rather solve the dispute inside a conference room than on the battlefield.</p>
+<p style="text-align: left; ">“I will just feed my army and the military and the police to the mouths of hell,” he had said, adding that if that were to happen “they will all die.”</p>
+<p style="text-align: left; ">China claims nearly all of the South China Sea, with the Philippines, Taiwan, Brunei, Malaysia and Vietnam having overlapping claims to the sea region.</p>
+<p style="text-align: left; ">On Wednesday, Panelo said Duterte would ask Xi for “ways and means to go about the conduct and framework of a possible joint exploration” for oil and gas in the disputed region.</p>
+<p style="text-align: left; "><i style="text-align: left; "><b>Reported by BenarNews, an RFA-affiliated online news service.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-08-28T19:53:22Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/vietnam/australia-vietnam-laos-hr-dialogue-08282019151620.html">
+		<title>HRW Urges Australia to Pressure Vietnam to Respect Human Rights in Upcoming Dialogue</title>
+    <link>https://www.rfa.org/english/news/vietnam/australia-vietnam-laos-hr-dialogue-08282019151620.html</link>
+    <description>Rights group expresses concern over promises made by Laos during similar bilateral dialogue with Canberra.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/vietnam/australia-vietnam-laos-hr-dialogue-08282019151620.html/phil-robertson-2017-crop"></img><p>As Australia prepares to enter human rights discussions with Vietnam this week, Human Rights Watch urged Canberra to pressure Hanoi to stop suppressing of freedom of expression and release all its political prisoners.</p>
+<p>The New York-based NGO said in a statement that although the relationship between the two countries has deepened, Australia is not doing enough to address rights concerns publicly, citing Prime Minister Scott Morrison’s silence on the matter during his August 2019 visit to Hanoi.</p>
+<p>“Australia’s close ties with Vietnam mean the Australian government has a responsibility to speak out publicly on Vietnam’s abysmal human rights record,” said Elaine Pearson, Australia director at Human Rights Watch. “The crackdown on basic rights in Vietnam is escalating, with more political prisoners being unjustly detained for longer terms.</p>
+<p>Vietnam has imprisoned at least 131 people for exercising basic rights, some of whom have serious health conditions that are made worse by their detention, the statement said.</p>
+<p>Human Rights Watch also cited the case of Chau Van Kham, an Australian citizen and pro-democracy activist who has been detained in Vietnam since January.</p>
+<p>“Australia should be publicly calling for the immediate release of Chau Van Kham, an Australian citizen, and all other political prisoners who have been unjustly jailed in Vietnam,” Pearson said.</p>
+<p>“Australia should press Vietnam to change its rights-violating criminal procedure code so that all criminal detainees have prompt access to legal counsel as international law requires.”</p>
+<p>The statement also documented how activists and bloggers suffer physical assault by “official or government-connected thugs” – groups of men who attack rights activists, plaintiffs in land grab cases and others at odds with Hanoi.</p>
+<p>The NGO also expressed concern over Vietnam’s cybersecurity law, which went into effect in January, saying the law is problematic because it grants authorities the ability to censor online expression.</p>
+<p>It was also critical of Google and Facebook for complying with Hanoi’s requests to remove online content, including links to articles critical of the Party and the State.</p>
+<p>“Vietnam is increasingly aggressive in its approach to online censorship, including its enforcement of the cybersecurity law, an attempt to silence critical voices online,” Pearson said. “Australia should press Vietnam to amend this law and to end the government’s systemic repression of dissidents and peaceful activists.”</p>
+<p>The 16<sup>th</sup> Australia-Vietnam human rights dialogue opens Thursday in Canberra.</p>
+<p><strong>Discussions with Laos</strong></p>
+<p>Meanwhile, the Canberra’s Department of Foreign Affairs and Trade released a statement detailing human rights discussions with Laos held on Aug. 12.</p>
+<p>“The two sides had frank and constructive discussions on an extensive range of issues, including civil and political rights, rights of vulnerable people, legal issues, engagement with international human rights mechanisms and bilateral cooperation on human rights in regional and international arenas,” the Australian statement said.</p>
+<p>“During the dialogue, individual cases of concern were raised by Australia,” it said.</p>
+<p>Australia said that Laos “provided updated information and explanation on circumstances surrounding each case and reaffirmed that all conducts and procedures were implemented based on its legal and policy frameworks.”</p>
+<p>Phil Robertson, deputy director of Human Right’s Watch’s Asia division, expressed concern over agreements made by Laos during the dialogue, citing past history.</p>
+<p>“Our concern is that the Lao government will promise many things but will not enforce the actual promises,” said Robertson in an interview with RFA’s Lao Service.</p>
+<p>“We hope that they raised issues about disappearances … the ongoing restriction of civil and political rights, including freedom of expression, freedom of association, and freedom of peaceful public assembly.”</p>
+<p>Robertson also said land seizures, particularly in dam construction projects that are the centerpiece of the country’s economic development plans, should be covered in human rights dialogues with Laos’ communist government.</p>
+<p><strong><i>Additional reporting by RFA’s Lao Service.</i></strong></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator>Eugene Whong</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>human rights</dc:subject>
+    
+    <dc:date>2019-08-28T19:19:11Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/cartoons/fentanyl-china-cartoon-08282019145726.html">
+		<title>Mexico Seizes Huge Fentanyl Shipment from China</title>
+    <link>https://www.rfa.org/english/cartoons/fentanyl-china-cartoon-08282019145726.html</link>
+    <description>U.S. officials say China is the main source of illicit fentanyl. But China says the U.S. government should do more to reduce demand for the drug.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/cartoons/fentanyl-china-cartoon-08282019145726.html/190828RFA-en-1000.jpg"></img>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>fentanyl</dc:subject>
+    
+    
+      <dc:subject>china</dc:subject>
+    
+    
+      <dc:subject>cartoon</dc:subject>
+    
+    
+      <dc:subject>rebel pepper</dc:subject>
+    
+    <dc:date>2019-08-28T18:55:00Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/china/hongkong-rally-08282019134512.html">
+		<title>Tens of Thousands Protest Sexual Assault, Firing of Airline Staff in Hong Kong</title>
+    <link>https://www.rfa.org/english/news/china/hongkong-rally-08282019134512.html</link>
+    <description>Protesters come out in support of victims of sexual assault in police custody and the politicized sacking of airline employees sympathetic to the protests.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/china/hongkong-rally-08282019134512.html/cathay-protest.jpg"></img><p><span style="text-align: start; float: none; ">Tens of thousands of people converged on downtown Hong Kong's Central</span><span style="text-align: start; float: none; "> district on</span><span style="text-align: start; float: none; "><span> </span></span><span class="Object" id="OBJ_PREFIX_DWT4164_com_zimbra_date" style="text-align: start; "><span class="Object" id="OBJ_PREFIX_DWT4173_com_zimbra_date">Wednesday</span></span><span style="text-align: start; float: none; "><span> </span></span><span style="text-align: start; float: none; ">in protest over alleged sexual violence towards</span><span style="text-align: start; float: none; "> anti-extradition protesters, mostly women, the politicized sacking of airline employees sympathetic to the anti-extradition movement.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The #ProtestToo gathering aimed to highlight a specific form of police</span><span style="text-align: start; float: none; "> violence after a number of women reported being sexually humiliated</span><span style="text-align: start; float: none; "> during strip searches while in police custody.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Wearing purple ribbons in solidarity with the victims, the protesters</span><span style="text-align: start; float: none; "> listened to reports of sexual harassment and assault, while organizers</span><span style="text-align: start; float: none; "> also screened footage of a woman being partially stripped of her</span><span style="text-align: start; float: none; "> clothing during the course of her arrest in Tin Shui Wai earlier this</span><span style="text-align: start; float: none; "> month.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Other demonstrators had the #ProtestToo hashtag -- which echoes the</span><span style="text-align: start; float: none; "> global #MeToo anti sexual harassment and assault hashtag -- written on</span><span style="text-align: start; float: none; "> their arms.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Meanwhile, police have denied knowledge of multiple suspicious</span><span style="text-align: start; float: none; "> injuries suffered by anti-extradition protesters at the San Uk Ling</span><span style="text-align: start; float: none; "> detention center near the border with mainland China.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">A nurse at North District Hospital told local media that she had seen</span><span style="text-align: start; float: none; "> a number of unusual injuries among protesters who had been taken to</span><span style="text-align: start; float: none; "> the center on Aug. 11, including one with a severely damaged arm, and</span><span style="text-align: start; float: none; "> others with fractured ribs and bruises all over their bodies.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The patients told the nurse that they had been beaten up by officers</span><span style="text-align: start; float: none; "> while in custody, according to Now TV.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Some 30 people arrested in Causeway Bay and Tsim Sha Tsui were sent to</span><span style="text-align: start; float: none; "> hospital from the detention center, including six with bone fractures,</span><span style="text-align: start; float: none; "> police have admitted.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"When we try to control an arrested person, they would usually put up</span><span style="text-align: start; float: none; "> great resistance. And, when we are trying to handcuff him or her, some</span><span style="text-align: start; float: none; "> of them would try to put up resistance, and not to cooperate with the</span><span style="text-align: start; float: none; "> handcuffing," senior superintendent Kong Wing-cheung told a regular</span><span style="text-align: start; float: none; "> news briefing on</span><span style="text-align: start; float: none; "><span> </span></span><span class="Object" id="OBJ_PREFIX_DWT4165_com_zimbra_date" style="text-align: start; "><span class="Object" id="OBJ_PREFIX_DWT4174_com_zimbra_date">Wednesday</span></span><span style="text-align: start; float: none; ">.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"So, our officer has to use reasonable force to control him and</span><span style="text-align: start; float: none; "> handcuff him,” Kong said.</span><br style="text-align: start; "/><br style="text-align: start; "/><b><span style="text-align: start; float: none; ">Cathay staff sacked</span></b></p>
+<p><span style="text-align: start; float: none; ">Protesters also gathered to protest the sacking of staff at Hong</span><span style="text-align: start; float: none; "> Kong's airlines Cathay Pacific and Cathay Dragon for their support for</span><span style="text-align: start; float: none; "> the anti-extradition movement, after pressure from the ruling Chinese</span><span style="text-align: start; float: none; "> Communist Party in Beijing.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">China's Civil Aviation Administration issued a "significant security</span><span style="text-align: start; float: none; "> risk" warning to Cathay Pacific earlier this month, since when at</span><span style="text-align: start; float: none; "> least 20 people have lost their jobs in the aviation industry.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Former Cathay Dragon aircrew union leader Rachel Sy said she was</span><span style="text-align: start; float: none; "> dismissed with no explanation after executives called her in to</span><span style="text-align: start; float: none; "> confirm that private posts she had made to her Facebook account were</span><span style="text-align: start; float: none; "> in fact genuine.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">More than a thousand people marched from Central to the glitzy</span><span style="text-align: start; float: none; "> shopping mall of Pacific Place, where an anti-extradition protester</span><span style="text-align: start; float: none; "> fell to his death at the start of the movement.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"Stop the white terror!" the marchers chanted. "Reverse the dismissal!</span><span style="text-align: start; float: none; "> Give us back our freedom of speech!"</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"I know that I will not be the only one this happens to," Sy told RFA.</span><span style="text-align: start; float: none; "> "I am not afraid, because I know that I will have a lot of fellow</span><span style="text-align: start; float: none; "> travelers to support me."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"We're not just appealing on my behalf, but on behalf of all Hong Kong</span><span style="text-align: start; float: none; "> people," she said.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"I can't believe that no Hong Kong people ever took political</span><span style="text-align: start; float: none; "> positions and expressed political  opinions on social media prior to</span><span style="text-align: start; float: none; "> June," she said. "So why were no employees dismissed up until then?</span><span style="text-align: start; float: none; "> Now there are 20 employees who have been unfairly sacked."</span><br style="text-align: start; "/><br style="text-align: start; "/><b><span style="text-align: start; float: none; ">'Basic rights and freedoms'</span></b></p>
+<p><span style="text-align: start; float: none; ">A former airline employee surnamed Lo said he was also fired over</span><span style="text-align: start; float: none; "> social media posts, while a rally participant surnamed So said he was</span><span style="text-align: start; float: none; "> still hoping to express his freedom of speech by taking part.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"Why should I have to watch what I say on my own time, after work? Why</span><span style="text-align: start; float: none; "> can't I take a political position?" So said. "These are our basic</span><span style="text-align: start; float: none; "> rights and freedoms. Why is this happening?"</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"If I don't come out in protest, these things will just keep</span><span style="text-align: start; float: none; "> happening, one after another. I can no longer remain politically</span><span style="text-align: start; float: none; "> disconnected just for the sake of making money," he said.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Another rally participant surnamed Chan agreed.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"They didn't do anything that violated company principles while they</span><span style="text-align: start; float: none; "> were on duty," Chan said. "They were unreasonably dismissed by the</span><span style="text-align: start; float: none; "> company."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Cathay has responded to the criticisms by saying that it must obey the</span><span style="text-align: start; float: none; "> laws of countries in which it operates.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Another group of protesters petitioned the Hong Kong government not to</span><span style="text-align: start; float: none; "> heed calls for a ban on masks in public places.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Jason Lam, convenor of the pro-Beijing group, Real Hongkongers' View,</span><span style="text-align: start; float: none; "> has said masks prevent police from identifying protesters at the</span><span style="text-align: start; float: none; "> anti-extradition protests, saying an anti-mask law would ensure</span><span style="text-align: start; float: none; "> protests remained peaceful.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">France earlier this year passed a law banning the use of face masks</span><span style="text-align: start; float: none; "> after a series of yellow vest protests.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">At least 13 countries have banned masks in public, including Germany,</span><span style="text-align: start; float: none; "> France and Italy, and more than 10 states in Canada and the United</span><span style="text-align: start; float: none; "> States.</span><br style="text-align: start; "/><b><br style="text-align: start; "/><span style="text-align: start; float: none; ">Addressing protesters' demands</span></b></p>
+<p><span style="text-align: start; float: none; ">Icarus Wong, a member of the Civil Rights Observer group, said such a</span><span style="text-align: start; float: none; "> move would greatly facilitate Beijing-backed efforts to pursue even</span><span style="text-align: start; float: none; "> peaceful protesters for their political views, and wouldn't only</span><span style="text-align: start; float: none; "> affect those accused of criminal activities.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"This could easily infringe on freedom of expression and association,</span><span style="text-align: start; float: none; "> because we have seen many examples already in the current climate in</span><span style="text-align: start; float: none; "> Hong Kong of people who have been harassed ... and come under all</span><span style="text-align: start; float: none; "> kinds of pressure, even from their employers, because they took part</span><span style="text-align: start; float: none; "> in a protest," Wong said.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"Hong Kong people are masking up in peaceful gatherings precisely</span><span style="text-align: start; float: none; "> because they want to protect themselves and avoid being harassed or</span><span style="text-align: start; float: none; "> unreasonably treated because of their political positions and</span><span style="text-align: start; float: none; "> political opinions," he said.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Paul Yip, professor of social work and social administration at the</span><span style="text-align: start; float: none; "> University of Hong Kong, said the government needs at least to look at</span><span style="text-align: start; float: none; "> addressing the top two of the protesters' five demands: namely the</span><span style="text-align: start; float: none; "> formal withdrawal of amendments to the city's extradition laws, and an</span><span style="text-align: start; float: none; "> independent inquiry into police violence.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"The withdrawal of the amendments and the establishment of an</span><span style="text-align: start; float: none; "> independent inquiry are the two major demands of all Hong Kong</span><span style="text-align: start; float: none; "> citizens," Yip said. "If we are not willing to move on that, we will</span><span style="text-align: start; float: none; "> only see the problem and conflicts get worse and worse."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"The problem is that this has to be done by the only person with the</span><span style="text-align: start; float: none; "> power to do it," he said, in a reference to chief executive Carrie</span><span style="text-align: start; float: none; "> Lam.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The amendments are widely seen as a threat to Hong Kong's way of life,</span><span style="text-align: start; float: none; "> which was supposed to have been protected under the "one country, two</span><span style="text-align: start; float: none; "> systems" framework under which the former British colony was handed</span><span style="text-align: start; float: none; "> back to China in 1997.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">If they become law, the city could lose its status as a separate legal</span><span style="text-align: start; float: none; "> jurisdiction and trading entity, while journalists, visitors, rights</span><span style="text-align: start; float: none; "> activists, dissidents, democratic politicians, and the business</span><span style="text-align: start; float: none; "> community could be targeted for words and actions deemed illegal by</span><span style="text-align: start; float: none; "> the ruling Chinese Communist Party, and extradited to face trial in</span><span style="text-align: start; float: none; "> Chinese courts.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The anti-extradition protesters are calling for the formal withdrawal</span><span style="text-align: start; float: none; "> of planned amendments to extradition laws, an amnesty for arrested</span><span style="text-align: start; float: none; "> protesters, an end to the description of protesters as rioters, an</span><span style="text-align: start; float: none; "> independent inquiry into police abuse of power, and fully democratic</span><span style="text-align: start; float: none; "> elections.</span><br style="text-align: start; "/><br style="text-align: start; "/><i><b><span style="text-align: start; float: none; ">Reported by Man Hoi-tsan and Tam Siu-yin for RFA's Cantonese Service.</span><span style="text-align: start; float: none; "> Translated and edited by Luisetta Mudie.</span></b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-08-28T18:19:59Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/china/thinktank-closed-08282019131354.html">
+		<title>China Deals Death Blow to Liberal Economics Think Tank Unirule</title>
+    <link>https://www.rfa.org/english/news/china/thinktank-closed-08282019131354.html</link>
+    <description>The Unirule Economic Research Institute is shut down, following police raids on its office last year.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/china/thinktank-closed-08282019131354.html/unirule.jpg"></img><p><span style="text-align: start; float: none; ">The ruling Chinese Communist Party has shut down a liberal think tank</span><span style="text-align: start; float: none; "> following police raids on its premises late last year, in a move that</span><br style="text-align: start; "/><span style="text-align: start; float: none; ">analysts said paves the way for a return to the political ideology of</span><span style="text-align: start; float: none; "> the Mao era.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The Unirule Economic Research Institute confirmed the decision in a</span><span style="text-align: start; float: none; "> statement on its official website. It said the institute "strongly</span><span style="text-align: start; float: none; "> condemned" the action by the local government.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Unirule's executive director Sheng Hong said the move was a violation</span><span style="text-align: start; float: none; "> of China's constitution, and that the institute would lodge an</span><span style="text-align: start; float: none; "> administrative appeal.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"We have zero chance of success, but we should do it anyway, because</span><span style="text-align: start; float: none; "> we have the legal and constitutional right to do so," Sheng told RFA</span><span style="text-align: start; float: none; "> on</span><span style="text-align: start; float: none; "><span> </span></span><span class="Object" id="OBJ_PREFIX_DWT4114_com_zimbra_date" style="text-align: start; "><span class="Object" id="OBJ_PREFIX_DWT4123_com_zimbra_date">Wednesday</span></span><span style="text-align: start; float: none; ">.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"If the relevant government departments do not obey the constitution</span><span style="text-align: start; float: none; "> and the law of the land, then the problem lies with them," he said. "I</span><span style="text-align: start; float: none; "> have no power to prevent them from breaking the law."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Sheng said the shuttering of Unirule comes against a much broader</span><span style="text-align: start; float: none; "> political backdrop under which citizens have no freedom of</span><span style="text-align: start; float: none; "> association, as protected in Article 35 of China's constitution.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"The wider context is that our freedom of association under Article 35</span><span style="text-align: start; float: none; "> isn't being upheld, and the rights granted in that article have no</span><span style="text-align: start; float: none; "> protection," he said.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">He said the institute has let go more than 10 staff to date, while</span><span style="text-align: start; float: none; "> others remain employed to take care of bankruptcy proceedings, which</span><span style="text-align: start; float: none; "> are estimated to take about a year.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The institute was founded in 1993 by liberal economist Mao Yushi, who</span><span style="text-align: start; float: none; "> has repeatedly challenged the government on its economic policy and</span><span style="text-align: start; float: none; "> was awarded the Milton Friedman Prize for Advancing Liberty in 2012.</span><br style="text-align: start; "/><br style="text-align: start; "/><strong><span style="text-align: start; float: none; ">Tight ideological controls since 2012</span></strong></p>
+<p><span style="text-align: start; float: none; ">Since taking power in 2012, President Xi has launched an unprecedented</span><span style="text-align: start; float: none; "> set of ideological controls and boosted the institutions needed to</span><span style="text-align: start; float: none; "> enforce them.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Xi has repeatedly warned members of the political class not to go off</span><span style="text-align: start; float: none; "> message in public, and set up a nationwide monitoring agency to</span><span style="text-align: start; float: none; "> supervise and detain anyone remotely connected with the government,</span><span style="text-align: start; float: none; "> including civil servants, teachers and academics, journalists, and</span><span style="text-align: start; float: none; "> contractors.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">The closure of Unirule comes after the closure last year of the</span><span style="text-align: start; float: none; "> liberal political magazine <i>Yanhuang Chunqiu</i> and the outspoken analysis</span><span style="text-align: start; float: none; "> website ConsensusNet, both of which had specialized in wide-ranging</span><span style="text-align: start; float: none; "> political and economic analysis.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Unirule's website was also shuttered in</span><span style="text-align: start; float: none; "><span> </span></span><span class="Object" id="OBJ_PREFIX_DWT4115_com_zimbra_date" style="text-align: start; "><span class="Object" id="OBJ_PREFIX_DWT4124_com_zimbra_date">January 2016</span></span><span style="text-align: start; float: none; ">, and the social</span><span style="text-align: start; float: none; "> media accounts of some of its prominent members deleted.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Police in Beijing have also imposed a travel ban on Sheng, who had</span><span style="text-align: start; float: none; "> been invited to take part in a Harvard symposium last year examining</span><span style="text-align: start; float: none; "> China’s 40 years of economic reforms.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Independent constitutional scholar Zhang Lifan said Xi is taking China</span><span style="text-align: start; float: none; "> back to the Mao era, ideologically speaking.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"All of this has been happening since the current leadership took</span><span style="text-align: start; float: none; "> office," Zhang said. "The suppression of freedom of speech and</span><span style="text-align: start; float: none; "> academic freedom are directly related to the ideology of the current</span><span style="text-align: start; float: none; "> leadership, which is engaged in an ideological return to the Mao era."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Zhang said Unirule wasn't previously considered an oppositional voice in</span><span style="text-align: start; float: none; "> Chinese political and academic circles.</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"Unirule offered no real opposition, nor any political opposition at</span><span style="text-align: start; float: none; "> all," he said. "It was a genuine academic body."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">"But in recent years, the Chinese Communist Party has tended to regard</span><span style="text-align: start; float: none; "> non-governmental organizations as a hotbed of color revolution," Zhang</span><span style="text-align: start; float: none; "> said. "The authorities are shutting channels through which they might</span><span style="text-align: start; float: none; "> be able to hear different opinions."</span><br style="text-align: start; "/><br style="text-align: start; "/><span style="text-align: start; float: none; ">Some in China believe Unirule was targeted because it received some</span><span style="text-align: start; float: none; "> U.S.$200,000 in funding from the U.S.-based Ford Foundation. However,</span><span style="text-align: start; float: none; "> those funds accounted for less that one percent of its total funding.</span><br style="text-align: start; "/><br style="text-align: start; "/><i><strong><span style="text-align: start; float: none; ">Reported by Gao Feng and Qu Yige for RFA's Mandarin Service, and by</span><span style="text-align: start; float: none; "> Lau Siu-fung for the Cantonese Service. Translated and edited by</span><span style="text-align: start; float: none; "> Luisetta Mudie.</span></strong></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2019-08-28T17:30:00Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/laos/troops-08272019175857.html">
+		<title>Laos, Cambodia Pledge Pull-Back of Troops From Border as Tensions Ease</title>
+    <link>https://www.rfa.org/english/news/laos/troops-08272019175857.html</link>
+    <description>Troops from both countries will withdraw from the disputed area by Aug. 29, a Lao military website says.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/laos/troops-08272019175857.html/khmer-travel2-082719.gif"></img><p>Laos and Cambodia have agreed to pull military units away from the countries’ shared northern border by the end of this week in a move aimed at easing tensions, sources in both countries said.<br/><br/>Speaking to RFA’s Khmer Service on Tuesday, Preah Vihear provincial governor Prak Sovann said that the governments of both countries have agreed to withdraw their troops following fears of escalation last week leading to possible armed conflict.<br/><br/>Cambodian troops will redeploy not far from the area, though, he said, adding, “Troops will remain near the border.”<br/><br/>Meanwhile, Cambodia’s <i>Phnom Penh Post</i> in an Aug. 25 report said that the Lao and Cambodian prime ministers had spoken on the phone to resolve the situation.<br/><br/>“At 9:00 a.m. on Saturday, Aug. 24, I made a direct call to [Lao] Premier Thongloun Sisolith, and we had a very friendly discussion and agreed to withdraw our troops from the unmarked border area,” Cambodian Prime Minister Hun Sen said, quoted by the <i>Pos</i>t.<br/><br/>Both leaders also agreed to continue talks to ease tensions between the two countries, the <i>Post</i> said.<br/><br/>On Tuesday, the website of the Lao People’s Army said that senior military leaders—Major Gen. Soukai Phommasone, the provincial military commander of Champassak province in Laos, and Lieut. Gen. Duangchan, commander of Battalion 9 of the Cambodian army—had met to discuss tensions on the border.<br/><br/>Both sides will now withdraw their troops from the disputed border area on Aug. 29 between 8:00 a.m. and 11:00 a.m., and will set up a joint committee of five military officers from each to side to monitor the situation on the border, the Lao website said.<br/><br/>Tensions flared on Aug. 11  when Lao and Cambodian troops confronted each other in an area along the border called Mom Bei, with one source close to a high-ranking Lao military officer telling RFA that Cambodian soldiers had ordered Lao troops to withdraw within three days or face military action.<br/><br/>Reports of the border dispute came as Cambodia’s government has sought to downplay reports of the announced return from exile on Nov. 9 of political opposition leader Sam Rainsy, who has vowed to lead a restoration of democracy in the authoritarian Southeast Asian nation despite threats of arrest.<br/><br/><i><b>Reported by RFA’s Lao and Khmer Services. Translated by Max Avary and Sok Ry Sum. Written in English by Richard Finney.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>land dispute</dc:subject>
+    
+    
+      <dc:subject>military</dc:subject>
+    
+    
+      <dc:subject>laos</dc:subject>
+    
+    
+      <dc:subject>cambodia</dc:subject>
+    
+    <dc:date>2019-08-27T22:10:47Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/myanmar/ongoing-clashes-in-myanmars-rakhine-state-08272019170323.html">
+		<title>Ongoing Clashes in Myanmar’s Rakhine State Force Thousands to Flee Two Villages</title>
+    <link>https://www.rfa.org/english/news/myanmar/ongoing-clashes-in-myanmars-rakhine-state-08272019170323.html</link>
+    <description>Meanwhile, a mortar shell blast kills one civilian, injures another amid fighting in northeastern Shan state.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/myanmar/ongoing-clashes-in-myanmars-rakhine-state-08272019170323.html/myanmar-panmyung-village-residents-rakhine-aug27-2019.jpg"></img><p>Fighting between Myanmar forces and Arakan Army insurgents has prompted about 5,000 residents from two villages in war-ravaged Rakhine state’s Minbya township to flee their communities since hostilities in the area began four days ago, residents said Tuesday.</p>
+<p>Those who fled Panmyaung and Shwekyin villages have sought shelter in Buddhist monasteries or with relatives because of the random firing of heavy weapons by Myanmar troops now stationed on Aung Mingalar Hill in the middle of Panmyaung, they said.</p>
+<p>“The [Myanmar] military has been firing indiscriminately from its base on Aung Mingalar Hill,” said Panmyaung resident Kyaw Zin.</p>
+<p>Of the more than 8,000 people who live in Panmyaung village alone, only about one-third have remained behind, he said.</p>
+<p>“All the villagers from Panmyaung village are terrified, and many have fled. Now, only a third of the villagers are left, remaining behind to take care of their belongings,” Kyaw Zin said.</p>
+<p>Many villagers are staying temporarily with family members who live in the towns of Mrauk-U, Minbya, and Sittwe, he said.</p>
+<p>“Right now, there is some firing from Aung Mingalar Hill as we speak,” he told RFA’s Myanmar Service via phone at around 4 p.m. “People who are ill will not survive amid these loud blasts.”</p>
+<p>Nyo Maung Thein, administrator of nearby Shwekyin village and a resident of Kyaung Taung village, reported that government soldiers have been firing from military helicopters since shooting began in the morning.</p>
+<p>“They have been shooting the entire day since 7 a.m.,” he said. “Now, two helicopters have flown over. … They fired from the helicopters to the northeast of Panmyaung village. That area is northwest of Shwekyin [village].”</p>
+<p>A resident of Kyaung Taung village confirmed the aerial attacks.</p>
+<p>“Yes, they have been shooting all day,” said the villager who declined to be named out of concern for his safety. “Just now, they were shooting from the air. It was two helicopters. We saw them shooting from the helicopters.”</p>
+<p><b>‘One-sided claims’</b></p>
+<p>Myanmar military spokesman Brigadier General Zaw Min Tun called the villagers’ reports “one-sided claims.”</p>
+<p>“It is not just our military firing the weapons,” he said. “Both sides are firing at one another during the battle.”</p>
+<p>“It is true that there were armed engagements in the region east of Panmyaung village,” he said. “There is an AA camp over there, and we are trying to capture that camp. There are no other clashes [in the area].”</p>
+<p>Zaw Min Tun said Myanmar troops were stationed near Panmyaung to ensure the security of the Yangon-Sittwe highway which passes through the area.</p>
+<p>Rakhine state lawmaker Hla Thein Aung from Minbya township, who was in Panmyaung village on Tuesday, also confirmed the continuous firing of heavy weapons.</p>
+<p>“The residents of the village feared that the tragedy that occurred on Aug. 24 might be repeated, so they fled the village,” he said, referring to the day when an explosion from a stray artillery shell killed three children and injured four other civilians in Panmyaung village.</p>
+<p>The Myanmar military and the AA blamed each other for the deaths.</p>
+<p>The lawmaker said the villagers asked him to help them force the military to move its base away from their community by collecting signatures on a petition to be submitted to authorities.</p>
+<p>“We decided to send the appeals with signatures to the state’s chief minister, the speaker of the parliament, and the minister for border security,” he said, adding that he would go to Rakhine’s capital Sittwe on Friday to submit the document.</p>
+<p>AA spokesman Khine Thukha acknowledged that the two forces were engaged in combat in Monday, but said he did not know whether they had clashed near Panmyaung village.</p>
+<p>“Yesterday there was an armed clash about two miles northeast of Panmyaung village,” he said. “I heard there are some clashes today. But I don’t have updates for today yet.”</p>
+<p><b><div class="image-inline captioned" style="width:622px;">
+<div style="width:622px;">
+<img alt="myanmar-mortar-shell-part-kutkai-shan-aug-27-2019.jpg" height="350" src="https://www.rfa.org/english/news/myanmar/ongoing-clashes-in-myanmars-rakhine-state-08272019170323.html/myanmar-mortar-shell-part-kutkai-shan-aug-27-2019.jpg/image" title="myanmar-mortar-shell-part-kutkai-shan-aug-27-2019.jpg" width="622"/>
+</div>
+<div class="image-caption">
+<span style="width:622px;">A Myanmar villager holds part of a mortar shell that fell in Pang Say village in Kutkai township, northeastern Myanmar's Shan state, Aug. 27, 2019.</span>
+<span class="copyright">Credit: A citizen journalist</span>
+</div>
+</div>
+
+Mortar blast kills man</b></p>
+<p>In a related development, a mortar shell blast killed one villager and injured another Monday evening amid the continuing conflict between government soldiers and three ethnic armies, including the AA, in northeastern Shan state, a villager said Tuesday.</p>
+<p>The 50-year-old man died when he was hit by shrapnel from a stray shell that exploded near his home in Kutkai township’s Pang Say village, said a neighbor who declined to give his name out of concern for his safety.</p>
+<p>The man’s wife suffered minor injuries, he said.</p>
+<p>“Some shells fell in our village around 6:30 or 7 p.m.,” the neighbor told RFA. “One shell exploded about 300 feet or so from his house. The family was not there. [The man] was about to pray upstairs when a piece of shrapnel came through the wall and hit him in the neck … and he died on the spot.”</p>
+<p>“Because shells were in the air, nobody dared to go and help him,” he said.</p>
+<p>Other residents told RFA there were clashes Monday evening near Lwe-saing village, west of where Myanmar Infantry Regiment 242 is stationed, and near Loi Sam Sik Hill [in the vicinity of] Kutkai, where both adversaries fired heavy weapons.</p>
+<p>The TNLA said in a statement issued Tuesday that the Myanmar military was using heavy weapons, but Zaw Min Tun denied the accusation.</p>
+<p>“It’s obvious who is hitting civilians,” he said, referring to the ethnic armies.</p>
+<p>“Between Kutkai and Nanhpelkar, civilian cars and trucks were shot at,” he said. “We have recently seen nonmilitary targets being hit. They were hitting non-military vehicles without reason. People should be condemning these acts of violence.”</p>
+<p>On Tuesday morning, a passenger car traveling from Kutkai to Muse was fired on near a garbage dump outside Kutkai, wounding a man, a RFA reporter at the scene observed.</p>
+<p>Fighting has raged in the area for the past eight days, and traffic along the main highway has been stopped, preventing local villages from traveling to buy rice and other food supplies.</p>
+<p><b>China pressures ethnic armies</b></p>
+<p>Meanwhile, China, which borders Shan state, has been pressuring the alliance of ethnic militaries to stop fighting ahead of the 70th anniversary of the founding of the People’s Republic of China at the beginning of October, spokesmen from the rebel armies said Tuesday.</p>
+<p>Sun Guoxiang, special envoy for Asian affairs from China’s foreign ministry, met a week ago with the AA, TNLA, and the Myanmar National Democratic Alliance Army (MNDAA) in southwestern China’s Kunming city to tell them that Beijing does not accept the armed conflict, which has increased instability in the border region.</p>
+<p>“It was like he pressured both sides to stop fighting and to talk,” said AA spokesman Khine Thukha on Tuesday. “He pressured us with the intention of having stability in the China-Myanmar border area.”</p>
+<p>“The other thing is that the 70th anniversary of the People’s Republic of China is Oct. 1, and he wants all organizations [in the border area] to do everything with caution during this period,” he said.</p>
+<p>The three ethnic armies, which belong to the Northern Alliance, asked Sun for assistance in resuming peace talks with the Myanmar government and military as soon as possible, Khine Thukha said.</p>
+<p>The AA along with the Ta’ang National Liberation Army (TNLA) and the (MNDAA), conducted coordinated attacks on five locations in Shan state and neighboring Mandalay region on Aug. 15 that left 15 people dead, including Myanmar troops and policemen, in retaliation for government army offensives.</p>
+<p>Since then, the armies have launched attacks on roads and bridges and engaged in fighting in Kutkai and Muse townships.</p>
+<p>TNLA spokesman Aik Kyaw said the ethnic armies explained to Sun that they launched the armed assaults to defend themselves from Myanmar military attacks.</p>
+<p>“We have asked him [to pass our message to the government army] to stop the offensives in Rakhine, to stop recruiting, and to stop the building of new military posts in the Ta’ang region,” he said.</p>
+<p>“Moreover, we told him that the military should let go of its hardline attitude and engage in political dialogue,” he added</p>
+<p>The Myanmar military wants to hold peace talks with Myanmar's ethnic armed organizations, though it is not clear whether the TNLA, AA, and MNDAA will participate.</p>
+<p>But Zaw Min Tun denied that Sun had pushed the ethnic armies to stop fighting</p>
+<p>“As far as I know, the Chinese official didn’t pressure them,” he said. “The current fighting is taking place along the Union Highway, and everybody knows who is responsible for it. The [Myanmar] military has to protect people and their lives.” <br/> <i><b></b></i></p>
+<p><i><b>Reported by Thant Zin Oo, Kan Thar, and Kyaw Htun Naing for RFA’s Myanmar Service. Translated by Ye Kaung Myint Maung, Khin Maung Nyane, and Khet Mar. Written in English by Roseanne Gerin.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>rakhine</dc:subject>
+    
+    
+      <dc:subject>arakan</dc:subject>
+    
+    
+      <dc:subject>military</dc:subject>
+    
+    
+      <dc:subject>villagers</dc:subject>
+    
+    
+      <dc:subject>shan</dc:subject>
+    
+    
+      <dc:subject>ethnic armies</dc:subject>
+    
+    
+      <dc:subject>war</dc:subject>
+    
+    
+      <dc:subject>tnla</dc:subject>
+    
+    
+      <dc:subject>northern alliance</dc:subject>
+    
+    
+      <dc:subject>peace</dc:subject>
+    
+    <dc:date>2019-08-27T21:15:00Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+	
+    <item rdf:about="https://www.rfa.org/english/news/laos/migrants-08272019160657.html">
+		<title>Lao Migrants Fleeing Poverty Defy Dangers to Work in Thailand</title>
+    <link>https://www.rfa.org/english/news/laos/migrants-08272019160657.html</link>
+    <description>Some enter as tourists or are trafficked, sold by one employer to another for sexual exploitation or work for little pay.</description>
+         
+    <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<img src="https://www.rfa.org/english/news/laos/migrants-08272019160657.html/laos-talking3-082619.gif"></img><p>Lao workers, many of them young and some still in their teens, have poured in growing numbers this year into neighboring Thailand, braving exploitation and unsafe work conditions in search of employment to help support families back home, sources in the Southeast Asian nation say.<br/><br/>Many are encouraged by their parents to go abroad for work, sources say. Others are trafficked and held in debt-traps, or are killed in accidents at work or on the road.<br/><br/>On Monday, the bodies of nine Lao migrants killed on Aug. 18 in a head-on collision while traveling to a border town to renew the tourist visas on which they had entered Thailand were returned to their families. A tenth was cremated in Thailand.<br/><br/>Speaking recently to RFA’s Lao Service, an official with the Lao Ministry of Labor and Social Welfare said that many Lao who look for jobs in Thailand have not yet finished school.<br/><br/>“Some of them have not completed high school,” the official said, speaking on condition of anonymity.<br/><br/>“These workers are 15, 16, or 17. Their parents push them to go out and earn money, and in Thailand they work at restaurants or in construction,” he said. “Most of them go there of their own free will, hoping they can make money to help their families.”<br/><br/>“They won’t say they are going there to work, though. Instead, they say they are going to visit relatives, or as tourists, and we can’t stop them,” he said.<br/><br/>Ministry figures indicate that at the beginning of this year, 207,561 Lao migrants were working legally in Thailand, with about 30,000 illegal workers also present in the country. Figures published in May by the Thai Labor Ministry showed 278,485 Lao workers registered in Thailand, however.<br/><br/>The number of Lao migrants working illegally in Thailand illegally was not known, the Thai ministry said.<br/><b><br/>Poverty at home</b><br/><br/>Many of those looking for work in Thailand voice concerns over family poverty as their reason for leaving home.<br/><br/>“A friend who is working at a restaurant in Bangkok called me, and so I came. I’ve been working here since June and will go back home in September,” one 22-year-old Lao woman told RFA.<br/><br/>“I need money for myself and for my family, because we’re poor farmers,” she said, adding that she earns $400 each month but has to work hard from 4:00 p.m. to 2:00 a.m. every day.<br/><br/>“We live in the countryside, where are no jobs and there’s nothing to do,” another young Lao woman, a resident of Khammouane province, told RFA in an interview in July. “So I come here to make money and send it home to pay our family’s debts.”<br/><br/>Many young Laotians enter Thailand with the help of middle-men to work illegally, with many later trapped in debt to their employers while others simply vanish.<br/><br/>In Sekong province in southern Laos, where many young people have left to go to Thailand, a provincial anti-human trafficking unit official told RFA his department lacks the funds and human resources to stop or slow the trade.<br/><br/>“Recently, two girls left,” he said. “One has come back, and the other disappeared.”<br/><br/>Lao migrants travel back and forth every day through the Chong Mek-Vangtao check point at the border between Champassak province in Laos and Thailand’s Ubol Ratchthany province, Thai border inspector Ponrpirom Yuthaboon told RFA on Aug. 21.<br/><br/>“Many work illegally, and then they get arrested. And sometimes they don’t return home through this gate.”<br/><b><br/>Loopholes in the law</b><br/><br/>Some Lao workers enter Thailand as tourists, Samak Tapthanee—head of the anti-trafficking unit of the Thai-based Labor Rights Promotion Network—told RFA.<br/><br/>“Some just have border passes. Others carry passports and then work without a permit. Then they travel to border provinces to renew their visa, which allows them to stay in Thailand for another one to three months.”<br/><br/>“This is one of the loopholes in Thailand’s laws, and this is a problem right now,” he said, adding that some Lao workers will not even go back to Laos to have their passport stamped, but will go to the border with Myanmar or Cambodia instead.<br/><br/>On arrival in Thailand, many young Laotians are handed off from one employer to another, some told RFA in interviews.<br/><br/>“A middle-man told me that he would take me to Bangkok to work in a factory, but instead he gave me to another Thai man who sold me to a karaoke bar,” one young girl named Phin from Pakse city in Champassak province told RFA.<br/><br/>Other Lao girls are sold to entertainment venues, restaurants, or factories, Phin said, with employers paying between $250 and $500 to a second middle-man, and employers then deducting pay from the girls’ paychecks every month until their “debt” is paid.<br/><br/><b>Sexually exploited</b><br/><br/>Many of these women and girls are then sexually exploited, with some entrapped by relatives back home, sources told RFA.<br/><br/>“My own aunt, my father’s sister, asked me whether I wanted to visit Thailand, and two of my girlfriends went with me,” one 17-year-old said, speaking to RFA following her return to Laos.<br/><br/>“We crossed the Mekong River, and a Thai woman picked us up at the border and we traveled for a long distance. We then came to a karaoke bar somewhere in Thailand, and my aunt left.”<br/><br/>The girl and her friends were then forced to “serve” customers, and when they tried to leave were told they each owed the bar owner $4,500, the amount the van driver and the girl’s aunt had been paid for them, she said.<br/><br/>All three escaped from the bar and returned home last year.<br/><br/>In another case, a 17-year-old girl was lured to Thailand’s Narathiwat province three years ago to work in a restaurant but was forced into sex work at a karaoke bar, a Thai immigration officer told RFA in a recent interview.<br/><br/>“Later, she became pregnant,” the Thai officer said. “[Recently], she escaped and found her way back to Laos, where she was helped by an NGO.”<br/><br/>“Thai police have arrested the two owners of the bar,” the officer said, adding that the girl’s baby was born deformed because she had contracted syphilis while working at the bar.<br/><br/><b>Underpaid, threatened</b><br/><br/>In other cases, Thai employers underpay undocumented Lao workers and then threaten them with arrest by the police if they complain, sources say.<br/><br/>In February, a young couple in their 20s from Saravan province entered Thailand as tourists and stayed to work illegally as a security guard and a housekeeper, they told RFA.  Paid less than they were promised, they were then not paid at all for the last three months of their employment, and finally went to the police themselves to complain, they said.<br/><br/>Speaking to RFA, the husband said he and his wife are now in hiding, protected by the Labor Rights Promotion Network, while they seek authorities’ help to recover the money they are owed.<br/><br/>“According to Thai law, we should be paid, and as soon as we get our money we’ll go back home,” he said.<br/><br/>Also speaking to RFA, an official with Thailand’s Ministry of Labor and Social Welfare said the Lao couple will get their pay, adding, “Our job is to protect and help workers without discriminating against particular nationalities.”<br/><br/>“If they worked, they will be paid,” he said.<br/><br/><i><b>Reported by RFA’s Lao Service. Translated by Max Avary. Written in English by Richard Finney.</b></i></p>]]></content:encoded>
+    <dc:publisher>Radio Free Asia</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>human trafficking</dc:subject>
+    
+    
+      <dc:subject>labor</dc:subject>
+    
+    
+      <dc:subject>migrant workers</dc:subject>
+    
+    
+      <dc:subject>cambodia</dc:subject>
+    
+    <dc:date>2019-08-27T20:51:30Z</dc:date>
+    <dc:type>Story</dc:type>
+  </item>
+
+
+
+
+
+
+</rdf:RDF>

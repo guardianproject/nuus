@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>World news | The Guardian</title>
+    <link>https://www.theguardian.com/world</link>
+    <description>Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice</description>
+    <language>en-gb</language>
+    <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2019</copyright>
+    <pubDate>Thu, 21 Mar 2019 19:20:55 GMT</pubDate>
+    <dc:date>2019-03-21T19:20:55Z</dc:date>
+    <dc:language>en-gb</dc:language>
+    <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2019</dc:rights>
+    <image>
+      <title>The Guardian</title>
+      <url>https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png</url>
+      <link>https://www.theguardian.com</link>
+    </image>
+    <item>
+      <title>Trump says US will recognize Israel's sovereignty over Golan Heights</title>
+      <link>https://www.theguardian.com/us-news/2019/mar/21/trump-us-golan-heights-israel-sovereignty</link>
+      <description>&lt;ul&gt;&lt;li&gt;Israel captured Golan Heights from Syria after war in 1967&lt;/li&gt;&lt;li&gt;Netanyahu responds on Twitter: ‘Thank you President Trump!’&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/live/2019/mar/21/donald-trump-latest-news-live-us-politics-campus-free-speech-order-joe-biden"&gt;Follow today’s US politics news&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Donald Trump has announced that the US will recognize &lt;a href="https://www.theguardian.com/world/israel"&gt;Israel&lt;/a&gt;’s sovereignty over the Golan Heights, captured from Syria in 1967, in a dramatic move likely to bolster &lt;a href="https://www.theguardian.com/world/benjamin-netanyahu"&gt;Benjamin Netanyahu&lt;/a&gt;’s hopes to win re-election, but which will also provoke international opposition.&lt;/p&gt;&lt;p&gt;Previous US administrations have treated Golan Heights as occupied Syrian territory, in line with UN security council resolutions. Trump declared his break with that policy, in a &lt;a href="https://twitter.com/realDonaldTrump/status/1108772952814899200"&gt;tweet on Thursday&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2019/mar/21/trump-us-golan-heights-israel-sovereignty"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
+      <category domain="https://www.theguardian.com/world/israel">Israel</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/benjamin-netanyahu">Benjamin Netanyahu</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/middleeast">Middle East and North Africa</category>
+      <category domain="https://www.theguardian.com/world/syria">Syria</category>
+      <pubDate>Thu, 21 Mar 2019 19:01:07 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2019/mar/21/trump-us-golan-heights-israel-sovereignty</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/5df32d87848f4b033ef49264fdb731febd1a51bb/0_0_3583_2149/master/3583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f74034b5657ea519f74d3e8482ae9339">
+        <media:credit scheme="urn:ebu">Photograph: Mandel Ngan/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/5df32d87848f4b033ef49264fdb731febd1a51bb/0_0_3583_2149/master/3583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ecadabb129b30abeed99041c7edbe91f">
+        <media:credit scheme="urn:ebu">Photograph: Mandel Ngan/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Julian Borger in Washington</dc:creator>
+      <dc:date>2019-03-21T19:01:07Z</dc:date>
+    </item>
+    <item>
+      <title>Facebook stored hundreds of millions of passwords unprotected</title>
+      <link>https://www.theguardian.com/technology/2019/mar/21/facebook-admits-passwords-unprotected</link>
+      <description>&lt;p&gt;Company admits to mistake and says it has no evidence of abuse – but the risk was huge&lt;/p&gt;&lt;p&gt;Facebook mistakenly stored “hundreds of millions” of passwords in plaintext, unprotected by any encryption, the company has admitted.&lt;/p&gt;&lt;p&gt;The mistake, which led to user passwords being kept in Facebook’s internal servers in an insecure way, affects “hundreds of millions of Facebook Lite users, tens of millions of other Facebook users, and tens of thousands of Instagram users”, according to the social networking site. Facebook Lite is a version of Facebook created for use in nations where mobile data is unaffordable or unavailable.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2019/mar/21/facebook-admits-passwords-unprotected"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/facebook">Facebook</category>
+      <category domain="https://www.theguardian.com/technology/data-computer-security">Data and computer security</category>
+      <category domain="https://www.theguardian.com/technology/encryption">Encryption</category>
+      <category domain="https://www.theguardian.com/technology/internet-safety">Internet safety</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/media/socialnetworking">Social networking</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/news/information-commissioner">Information commissioner</category>
+      <category domain="https://www.theguardian.com/technology/hacking">Hacking</category>
+      <pubDate>Thu, 21 Mar 2019 16:50:40 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2019/mar/21/facebook-admits-passwords-unprotected</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/29e9ff1463be05fb947bcee875c35d2345431154/0_276_4134_2480/master/4134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=441f3982002a76ca43ac65495626c2e5">
+        <media:credit scheme="urn:ebu">Photograph: David Levene/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/29e9ff1463be05fb947bcee875c35d2345431154/0_276_4134_2480/master/4134.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aff718a74ab0f75d82c6e69fe6d720f">
+        <media:credit scheme="urn:ebu">Photograph: David Levene/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Alex Hern</dc:creator>
+      <dc:date>2019-03-21T16:50:40Z</dc:date>
+    </item>
+    <item>
+      <title>'We don't have anything': the fight for survival after Cyclone Idai</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/21/we-dont-have-anything-the-fight-for-survival-after-cyclone-idai</link>
+      <description>&lt;p&gt;In cities and villages across Mozambique the huge need for aid and assistance is not being met &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2019/mar/21/cyclone-idai-floods-mozambique-zimbabwe-visual-guide"&gt;Cyclone Idai brings devastation to Mozambique – visual guide&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The main road connecting the cyclone-devastated Mozambican city of Beira to neighbouring Zimbabwe comes to an abrupt end. A section almost 100 metres long is almost entirely under water, an angry muddy gash where the tarmac was ripped away by the floods and raging currents.&lt;/p&gt;&lt;p&gt;A week after the onset of &lt;a href="https://www.theguardian.com/world/2019/mar/19/cyclone-idai-worst-weather-disaster-to-hit-southern-hemisphere-mozambique-malawi"&gt;Cyclone Idai&lt;/a&gt;, as the waters have receded in some places, some of those trapped in villages in the midst of the flood waters have at last managed to get out.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/21/we-dont-have-anything-the-fight-for-survival-after-cyclone-idai"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/world/cyclone-idai">Cyclone Idai</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/mozambique">Mozambique</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <category domain="https://www.theguardian.com/environment/flooding">Flooding</category>
+      <category domain="https://www.theguardian.com/world/natural-disasters">Natural disasters and extreme weather</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <pubDate>Thu, 21 Mar 2019 18:05:41 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/21/we-dont-have-anything-the-fight-for-survival-after-cyclone-idai</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6f9421218b82fa84efa5c1fc37f241b2be4adb6b/0_100_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3402c621be76ec2f323d7da95db1d0f7">
+        <media:credit scheme="urn:ebu">Photograph: Yasuyoshi Chiba/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6f9421218b82fa84efa5c1fc37f241b2be4adb6b/0_100_3000_1800/master/3000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdafb339fb63e0324a6f89ace94c40bb">
+        <media:credit scheme="urn:ebu">Photograph: Yasuyoshi Chiba/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Peter Beaumont in Beira</dc:creator>
+      <dc:date>2019-03-21T18:05:41Z</dc:date>
+    </item>
+    <item>
+      <title>Climate change could make insurance too expensive for most people – report</title>
+      <link>https://www.theguardian.com/environment/2019/mar/21/climate-change-could-make-insurance-too-expensive-for-ordinary-people-report</link>
+      <description>&lt;p&gt;Munich Re, world’s largest reinsurance firm, warns premium rises could become social issue&lt;/p&gt;&lt;p&gt;Insurers have warned that climate change could make cover for ordinary people unaffordable after the &lt;a href="https://www.reinsurancene.ws/top-50-reinsurance-groups/"&gt;world’s largest&lt;/a&gt; reinsurance firm blamed global warming for $24bn (£18bn) of losses in the Californian wildfires.&lt;/p&gt;&lt;p&gt;Ernst Rauch, Munich Re’s chief climatologist, told the Guardian that the costs could soon be widely felt, with premium rises already under discussion with clients holding asset concentrations in vulnerable parts of the state.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2019/mar/21/climate-change-could-make-insurance-too-expensive-for-ordinary-people-report"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/environment/climate-change">Climate change</category>
+      <category domain="https://www.theguardian.com/business/insurance">Insurance industry</category>
+      <category domain="https://www.theguardian.com/world/wildfires">Wildfires</category>
+      <category domain="https://www.theguardian.com/world/extreme-weather">Extreme weather</category>
+      <category domain="https://www.theguardian.com/world/natural-disasters">Natural disasters and extreme weather</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 21 Mar 2019 13:12:53 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2019/mar/21/climate-change-could-make-insurance-too-expensive-for-ordinary-people-report</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/1bc935b0bb90cb9e754ae8bafe90124b951a14a0/0_0_3000_1801/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc4a5219a04fbc61fae87eba95e1ae0b">
+        <media:credit scheme="urn:ebu">Photograph: Justin Sullivan/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/1bc935b0bb90cb9e754ae8bafe90124b951a14a0/0_0_3000_1801/master/3000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3e6f8f4d7c33ec215f5a8940e8d0248">
+        <media:credit scheme="urn:ebu">Photograph: Justin Sullivan/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Arthur Neslen</dc:creator>
+      <dc:date>2019-03-21T13:12:53Z</dc:date>
+    </item>
+    <item>
+      <title>'Mindblowing' haul of fossils over 500m years old unearthed in China</title>
+      <link>https://www.theguardian.com/science/2019/mar/21/mindblowing-haul-of-fossils-over-500m-years-old-unearthed-in-china</link>
+      <description>&lt;p&gt;Thousands of fossils date back to huge burst in diversity of life on Earth known as Cambrian explosion&lt;/p&gt;&lt;p&gt;A “mindblowing” haul of fossils that captures the riot of evolution that kickstarted the diversity of life on Earth more than half a billion years ago has been discovered by researchers in China.&lt;/p&gt;&lt;p&gt;Paleontologists found thousands of fossils in rocks on the bank of the Danshui river in Hubei province in southern China, where primitive forms of jellyfish, sponges, algae, anemones, worms and arthropods with thin whip-like feelers were entombed in an ancient underwater mudslide.&lt;/p&gt; &lt;a href="https://www.theguardian.com/science/2019/mar/21/mindblowing-haul-of-fossils-over-500m-years-old-unearthed-in-china"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/science/fossils">Fossils</category>
+      <category domain="https://www.theguardian.com/science/science">Science</category>
+      <category domain="https://www.theguardian.com/science/evolution">Evolution</category>
+      <category domain="https://www.theguardian.com/world/china">China</category>
+      <category domain="https://www.theguardian.com/science/biology">Biology</category>
+      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/education/research">Research</category>
+      <category domain="https://www.theguardian.com/education/education">Education</category>
+      <category domain="https://www.theguardian.com/education/higher-education">Higher education</category>
+      <pubDate>Thu, 21 Mar 2019 18:00:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/science/2019/mar/21/mindblowing-haul-of-fossils-over-500m-years-old-unearthed-in-china</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/29ef5c0fb8ac6ab4a857155e238c754ea23f0bdc/0_187_5616_3370/master/5616.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcee1c48c72b17db16f5e7bb6aa28b03">
+        <media:credit scheme="urn:ebu">Photograph: Supplied</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/29ef5c0fb8ac6ab4a857155e238c754ea23f0bdc/0_187_5616_3370/master/5616.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e42f336c7749899e69ae5e7673a42717">
+        <media:credit scheme="urn:ebu">Photograph: Supplied</media:credit>
+      </media:content>
+      <dc:creator>Ian Sample Science editor</dc:creator>
+      <dc:date>2019-03-21T18:00:14Z</dc:date>
+    </item>
+    <item>
+      <title>Kachin women from Myanmar 'raped until they get pregnant' in China</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/kachin-women-from-myanmar-raped-until-they-get-pregnant-in-china</link>
+      <description>&lt;p&gt;Women from Kachin minority are allowed to go home only if they leave baby behind, says HRW report &lt;/p&gt;&lt;p&gt;Burmese and Chinese authorities are turning a blind eye to a growing trade in women from Myanmar’s &lt;a href="https://www.theguardian.com/world/2018/apr/29/thousands-flee-in-myanmar-amid-fighting-between-army-and-kachin-rebels"&gt;Kachin minority&lt;/a&gt;, who are taken across the border, sold as wives to Chinese men and raped until they become pregnant, a report claims.&lt;/p&gt;&lt;p&gt;Some of the women are allowed to return home after they have given birth, but are forced to leave their children, according to an investigation by Human Rights Watch, titled Give Us a Baby and We’ll Let You Go.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/kachin-women-from-myanmar-raped-until-they-get-pregnant-in-china"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/myanmar">Myanmar</category>
+      <category domain="https://www.theguardian.com/world/china">China</category>
+      <category domain="https://www.theguardian.com/society/sex-trade">Sex trade</category>
+      <category domain="https://www.theguardian.com/law/human-rights">Human rights</category>
+      <category domain="https://www.theguardian.com/world/south-and-central-asia">South and Central Asia</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/women">Women</category>
+      <pubDate>Thu, 21 Mar 2019 14:26:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/kachin-women-from-myanmar-raped-until-they-get-pregnant-in-china</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/57c210bf29d10f4bd518d287ca4df6fe3d4e0bda/0_46_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a70cae81055725ca41d1ded6142230c">
+        <media:credit scheme="urn:ebu">Photograph: Khin Maung Win/AP</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/57c210bf29d10f4bd518d287ca4df6fe3d4e0bda/0_46_5000_3000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=858e53f42ad79f38e2feb71c068aedc6">
+        <media:credit scheme="urn:ebu">Photograph: Khin Maung Win/AP</media:credit>
+      </media:content>
+      <dc:creator>Emma Graham-Harrison</dc:creator>
+      <dc:date>2019-03-21T14:26:16Z</dc:date>
+    </item>
+    <item>
+      <title>New Zealand’s swift change to gun laws highlights 25 years of US inaction</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/new-zealand-shooting-swift-gun-law-changes-contrast-us-inaction</link>
+      <description>&lt;p&gt;Sweeping new ban that came just six days after mass shooting in Christchurch is a stark contrast to the political stalemate in the US&lt;/p&gt;&lt;p&gt;New Zealand’s &lt;a href="https://www.theguardian.com/world/2019/mar/21/new-zealand-brings-in-sweeping-gun-law-changes-in-wake-of-christchurch-attacks"&gt;sweeping new ban on a range of semi-automatic rifles and large ammunition magazines&lt;/a&gt;, which came just six days after a mass shooting in Christchurch, has been hailed as the “fastest response ever by a government after a tragedy”.&lt;/p&gt;&lt;p&gt; &lt;span&gt;Related: &lt;/span&gt;&lt;a href="https://www.theguardian.com/world/2019/mar/21/new-zealand-brings-in-sweeping-gun-law-changes-in-wake-of-christchurch-attacks"&gt;Christchurch attacks: New Zealand brings in sweeping gun-law changes&lt;/a&gt; &lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/new-zealand-shooting-swift-gun-law-changes-contrast-us-inaction"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/world/newzealand">New Zealand</category>
+      <category domain="https://www.theguardian.com/us-news/gun-control">US gun control</category>
+      <category domain="https://www.theguardian.com/world/christchurch">Christchurch</category>
+      <category domain="https://www.theguardian.com/world/jacinda-ardern">Jacinda Ardern</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <pubDate>Thu, 21 Mar 2019 18:32:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/new-zealand-shooting-swift-gun-law-changes-contrast-us-inaction</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/1404ce01a6d1f576ef33a188c10d62582284f090/0_40_4316_2589/master/4316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ffa5d02e1cf9594eee7f0bd6bdd6f36">
+        <media:credit scheme="urn:ebu">Photograph: Dianne Manson/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/1404ce01a6d1f576ef33a188c10d62582284f090/0_40_4316_2589/master/4316.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d593dd56e3f71c582a7fca099e083811">
+        <media:credit scheme="urn:ebu">Photograph: Dianne Manson/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Lois Beckett</dc:creator>
+      <dc:date>2019-03-21T18:32:16Z</dc:date>
+    </item>
+    <item>
+      <title>Brazil’s former president Michel Temer arrested in corruption investigation</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/brazils-former-president-michel-temer-arrested-in-corruption-investigation</link>
+      <description>&lt;p&gt;Temer arrested as part of Operation Car Wash, which led to the convictions of numerous members of Brazil’s political elite&lt;/p&gt;&lt;p&gt;Brazil’s former president &lt;a href="https://www.theguardian.com/world/michel-temer"&gt;Michel Temer&lt;/a&gt; – who played a key role in the 2016 impeachment of his rival Dilma Rousseff – has been arrested by federal policewhile driving in São Paulo.&lt;/p&gt;&lt;p&gt;Judge Marcelo Breitas issued arrest warrants on Thursday for Temer and 11 others in “Operation Radioactivity” – part of &lt;a href="https://www.theguardian.com/world/2017/jun/01/brazil-operation-car-wash-is-this-the-biggest-corruption-scandal-in-history"&gt;Operation Car&lt;/a&gt;&lt;a href="https://www.theguardian.com/world/2017/jun/01/brazil-operation-car-wash-is-this-the-biggest-corruption-scandal-in-history"&gt; Wash&lt;/a&gt;, the country’s largest ever corruption investigation, which has led to the convictions of numerous members of Brazil’s political elite.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/brazils-former-president-michel-temer-arrested-in-corruption-investigation"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/michel-temer">Michel Temer</category>
+      <category domain="https://www.theguardian.com/world/brazil">Brazil</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/americas">Americas</category>
+      <pubDate>Thu, 21 Mar 2019 18:04:06 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/brazils-former-president-michel-temer-arrested-in-corruption-investigation</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/988161b10c81f447d73fdf4185659acfa6026cb3/0_240_3892_2336/master/3892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c48d2f14247ebcb8498822272612e74d">
+        <media:credit scheme="urn:ebu">Photograph: Fernando Bizerra Jr/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/988161b10c81f447d73fdf4185659acfa6026cb3/0_240_3892_2336/master/3892.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c1f654f34b5b75585a64768c2ba7c8f">
+        <media:credit scheme="urn:ebu">Photograph: Fernando Bizerra Jr/EPA</media:credit>
+      </media:content>
+      <dc:creator>Anna Jean Kaiser in Rio de Janeiro</dc:creator>
+      <dc:date>2019-03-21T18:04:06Z</dc:date>
+    </item>
+    <item>
+      <title>John McCain's daughter issues rare public statement condemning Trump</title>
+      <link>https://www.theguardian.com/us-news/2019/mar/21/john-mccain-daughter-bridget-trump-attack-response-latest</link>
+      <description>&lt;p&gt;Bridget McCain responds to Trump’s remarks about her father: ‘You are a child in the most important role the world knows’&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/live/2019/mar/21/donald-trump-latest-news-live-us-politics-campus-free-speech-order-joe-biden"&gt;Follow the latest US politics updates live&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;John McCain’s daughter Bridget hit back Thursday against Donald Trump’s repeated attacks on her father by calling the president “a child”.&lt;/p&gt;&lt;p&gt;McCain, the late Arizona senator’s youngest daughter, who rarely speaks publicly, pleaded with Trump for decency after he &lt;a href="https://www.theguardian.com/us-news/2019/mar/20/donald-trump-john-mccain-attack"&gt;went after&lt;/a&gt; John McCain during an appearance in Ohio.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2019/mar/21/john-mccain-daughter-bridget-trump-attack-response-latest"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/johnmccain">John McCain</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
+      <pubDate>Thu, 21 Mar 2019 15:55:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2019/mar/21/john-mccain-daughter-bridget-trump-attack-response-latest</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/cb4dd2c4ec2eb2d79e1b84f7af3e1f1e962aa73c/0_268_2788_1673/master/2788.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ba467e1ac72b6f2b00f16a4c7600ad6">
+        <media:credit scheme="urn:ebu">Photograph: Justin Sullivan/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/cb4dd2c4ec2eb2d79e1b84f7af3e1f1e962aa73c/0_268_2788_1673/master/2788.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd1d167f59731173bf14aebe9794f322">
+        <media:credit scheme="urn:ebu">Photograph: Justin Sullivan/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Erin Durkin in New York</dc:creator>
+      <dc:date>2019-03-21T15:55:14Z</dc:date>
+    </item>
+    <item>
+      <title>Canada: 'Much more to be told' on Trudeau scandal, says minister who quit</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/canada-trudeau-scandal-snc-lavalin-jane-philpott</link>
+      <description>&lt;p&gt;Jane Philpott, who resigned in protest earlier this month, hints at more pain for embattled PM and says Canadians deserve the truth&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/world/2019/mar/21/hes-not-a-bad-person-but-justin-trudeau-voters-lament-scandal"&gt;‘He’s not a bad person, but …’ Trudeau turns voters off&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A Canadian cabinet minister who had quit in protest over the government’s handling of a corruption scandal said she and others had more to say about the matter, indicating more pain to come for the embattled prime minister, &lt;a href="https://www.theguardian.com/world/justin-trudeau"&gt;Justin Trudeau&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Trudeau has been on the defensive since February over allegations &lt;a href="https://www.theguardian.com/world/2019/feb/27/canada-trudeau-snc-lavalin-jody-wilson-raybould"&gt;top officials working for him leaned on the former justice minister&lt;/a&gt; Jody Wilson-Raybould to ensure the construction firm SNC-Lavalin avoided a corruption trial.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/canada-trudeau-scandal-snc-lavalin-jane-philpott"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/canada">Canada</category>
+      <category domain="https://www.theguardian.com/world/justin-trudeau">Justin Trudeau</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/americas">Americas</category>
+      <pubDate>Thu, 21 Mar 2019 16:29:49 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/canada-trudeau-scandal-snc-lavalin-jane-philpott</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7f0034725de350448da4207b52f72a25468f1300/0_74_3500_2100/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2eb09bc435f33b24630738fe464f4c3f">
+        <media:credit scheme="urn:ebu">Photograph: Chris Wattie/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7f0034725de350448da4207b52f72a25468f1300/0_74_3500_2100/master/3500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7024e5a96f0e11e0b5bc4265fb5b6dc1">
+        <media:credit scheme="urn:ebu">Photograph: Chris Wattie/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Reuters in Ottawa</dc:creator>
+      <dc:date>2019-03-21T16:29:49Z</dc:date>
+    </item>
+    <item>
+      <title>'Bad boys of Brexit' were guests at Trump’s Mar-a-Lago club</title>
+      <link>https://www.theguardian.com/us-news/2019/mar/21/arron-banks-andy-wigmore-brexit-supporters-trump-guests-mar-a-lago</link>
+      <description>&lt;p&gt;Arron Banks and Andy Wigmore have drawn the scrutiny of investigators looking into possible Russian interference in the 2016 referendum vote&lt;/p&gt;&lt;p&gt;Two controversial backers of the Brexit movement were guests last year at Donald Trump’s Mar-a-Lago club.&lt;/p&gt;&lt;p&gt;Arron Banks and Andy Wigmore, &lt;a href="https://www.theguardian.com/commentisfree/2018/jun/10/bad-boys-brexit-questions-answer-arron-banks"&gt;known as&lt;/a&gt; the “bad boys of Brexit”, visited the Palm Beach club in April, according to a &lt;a href="https://www.palmbeachpost.com/news/20190320/not-just-cindy-yang-royals-felon-pop-stars-others-got-access-to-trumps-mar-a-lago"&gt;review by the Palm Beach Post&lt;/a&gt; of Instagram posts tagged at the spot.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2019/mar/21/arron-banks-andy-wigmore-brexit-supporters-trump-guests-mar-a-lago"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/mar-a-lago">Mar-a-Lago</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <category domain="https://www.theguardian.com/politics/eu-referendum">Brexit</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 21 Mar 2019 15:31:42 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2019/mar/21/arron-banks-andy-wigmore-brexit-supporters-trump-guests-mar-a-lago</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/746a138da44a533c6c1644130361a9dfb557fe6b/16_5_4362_2618/master/4362.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d184d110ff0b03a61fa3f69b4abe0697">
+        <media:credit scheme="urn:ebu">Photograph: Andrew Parsons/REX/Shutterstock</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/746a138da44a533c6c1644130361a9dfb557fe6b/16_5_4362_2618/master/4362.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=785d8f93384039d3a917588bdec5d91a">
+        <media:credit scheme="urn:ebu">Photograph: Andrew Parsons/REX/Shutterstock</media:credit>
+      </media:content>
+      <dc:creator>Erin Durkin</dc:creator>
+      <dc:date>2019-03-21T15:31:42Z</dc:date>
+    </item>
+    <item>
+      <title>500 years in 59 seconds: the race to be the world's largest city</title>
+      <link>https://www.theguardian.com/cities/2019/mar/21/500-years-in-59-seconds-the-race-to-be-the-worlds-largest-city</link>
+      <description>&lt;p&gt;Fascinating interactive graphic shows changes in the globe’s 10 most populous cities from 1500 to 2018&lt;/p&gt;&lt;p&gt;This compelling interactive “bar chart race” shows the top 10 most populous cities in the world from 1500 to 2018.&lt;/p&gt;&lt;p&gt;“In the early 1500s most people lived in the east, either the east of Europe and north Africa or the east of the world itself in India and China,” says John Burn-Murdoch, who &lt;a href="https://www.youtube.com/watch?v=pMs5xapBewM&amp;amp;t=5s"&gt;created the interactive for the Financial Times&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/cities/2019/mar/21/500-years-in-59-seconds-the-race-to-be-the-worlds-largest-city"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/cities/cities">Cities</category>
+      <category domain="https://www.theguardian.com/technology/data-visualisation">Data visualisations</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 21 Mar 2019 13:25:34 GMT</pubDate>
+      <guid>https://www.theguardian.com/cities/2019/mar/21/500-years-in-59-seconds-the-race-to-be-the-worlds-largest-city</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/13d2082147a7f8bf4e742b760b4125363f30a3ac/132_11_1075_645/master/1075.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d7d2369435981cf8c47eb2582a059a">
+        <media:credit scheme="urn:ebu">Photograph: Financial Times</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/13d2082147a7f8bf4e742b760b4125363f30a3ac/132_11_1075_645/master/1075.png?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=560793a2641cccd8aa87adff21267c11">
+        <media:credit scheme="urn:ebu">Photograph: Financial Times</media:credit>
+      </media:content>
+      <dc:creator>Claire Burke</dc:creator>
+      <dc:date>2019-03-21T13:25:34Z</dc:date>
+    </item>
+    <item>
+      <title>Quiz: can you identify these world cities from their density maps alone?</title>
+      <link>https://www.theguardian.com/cities/2019/mar/19/quiz-identify-world-cities-density-maps-alone</link>
+      <description>&lt;p&gt;The LSE Cities Urban Age Programme has created density diagrams showing the number of people living in each square kilometre of a 100km by 100km area for cities around the world. Can you identify them?&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Dhaka&lt;/p&gt;&lt;p class="answer__text"&gt;Chicago&lt;/p&gt;&lt;p class="answer__text"&gt;Shanghai&lt;/p&gt;&lt;p class="answer__text"&gt;Lagos&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;London&lt;/p&gt;&lt;p class="answer__text"&gt;Paris&lt;/p&gt;&lt;p class="answer__text"&gt;Rome&lt;/p&gt;&lt;p class="answer__text"&gt;Madrid&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Buffalo&lt;/p&gt;&lt;p class="answer__text"&gt;Accra&lt;/p&gt;&lt;p class="answer__text"&gt;Marseilles&lt;/p&gt;&lt;p class="answer__text"&gt;Brisbane&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Islamabad&lt;/p&gt;&lt;p class="answer__text"&gt;Kabul&lt;/p&gt;&lt;p class="answer__text"&gt;Karachi&lt;/p&gt;&lt;p class="answer__text"&gt;New Delhi&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Mumbai&lt;/p&gt;&lt;p class="answer__text"&gt;Cairo&lt;/p&gt;&lt;p class="answer__text"&gt;Jakarta&lt;/p&gt;&lt;p class="answer__text"&gt;Hong Kong&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Los Angeles&lt;/p&gt;&lt;p class="answer__text"&gt;Vancouver&lt;/p&gt;&lt;p class="answer__text"&gt;Cape Town&lt;/p&gt;&lt;p class="answer__text"&gt;Taipei&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Recife&lt;/p&gt;&lt;p class="answer__text"&gt;Newcastle&lt;/p&gt;&lt;p class="answer__text"&gt;Havana&lt;/p&gt;&lt;p class="answer__text"&gt;Dar es Salaam&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;New Orleans&lt;/p&gt;&lt;p class="answer__text"&gt;Malaga&lt;/p&gt;&lt;p class="answer__text"&gt;Melbourne&lt;/p&gt;&lt;p class="answer__text"&gt;Rio de Janeiro&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Toronto&lt;/p&gt;&lt;p class="answer__text"&gt;New York&lt;/p&gt;&lt;p class="answer__text"&gt;Sao Paulo&lt;/p&gt;&lt;p class="answer__text"&gt;Barcelona&lt;/p&gt;&lt;p class="question__text"&gt;Which city is this?&lt;/p&gt;&lt;p class="answer__text"&gt;Buenos Aires&lt;/p&gt;&lt;p class="answer__text"&gt;Mexico City&lt;/p&gt;&lt;p class="answer__text"&gt;Nairobi&lt;/p&gt;&lt;p class="answer__text"&gt;Beijing&lt;/p&gt;&lt;p class="score__min-score"&gt;10 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Well done! &lt;/p&gt;&lt;p class="score__min-score"&gt;3 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Oh dear&lt;/p&gt;&lt;p class="score__min-score"&gt;4 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Not bad&lt;/p&gt;&lt;p class="score__min-score"&gt;2 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Oh dear&lt;/p&gt;&lt;p class="score__min-score"&gt;0 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Oh dear&lt;/p&gt;&lt;p class="score__min-score"&gt;1 and above.&lt;/p&gt;&lt;p class="score__title"&gt;Oh dear&lt;/p&gt;&lt;p&gt;LSE Cities says: “Residential density measures how closely people live together. More compact cities have higher densities, while cities that sprawl and have wide open spaces between buildings have lower densities. The pattern of streets, squares and urban blocks – as well as how many people live in residential units – determines the density of a city alongside the height of individual buildings.&lt;/p&gt; &lt;a href="https://www.theguardian.com/cities/2019/mar/19/quiz-identify-world-cities-density-maps-alone"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/cities/cities">Cities</category>
+      <category domain="https://www.theguardian.com/science/geography">Geography</category>
+      <category domain="https://www.theguardian.com/travel/travel-maps">Maps</category>
+      <category domain="https://www.theguardian.com/travel/travel">Travel</category>
+      <category domain="https://www.theguardian.com/education/geographyandenvironmentstudies">Geography and environment studies</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <pubDate>Tue, 19 Mar 2019 12:00:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/cities/2019/mar/19/quiz-identify-world-cities-density-maps-alone</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/33a5aeb02c601e548ee93ffdee54aff39385d4f7/80_0_2027_1216/master/2027.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee56400646c2eac3e7bd7aced9ed0d65">
+        <media:credit scheme="urn:ebu">Photograph: LSE Cities/Urban Age Programme</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/33a5aeb02c601e548ee93ffdee54aff39385d4f7/80_0_2027_1216/master/2027.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bc11d55080d4b234dae08e7cf32ed45">
+        <media:credit scheme="urn:ebu">Photograph: LSE Cities/Urban Age Programme</media:credit>
+      </media:content>
+      <dc:creator />
+      <dc:date>2019-03-19T12:00:18Z</dc:date>
+    </item>
+    <item>
+      <title>How public transport actually turns a profit in Hong Kong</title>
+      <link>https://www.theguardian.com/cities/2019/mar/19/how-public-transport-actually-turns-a-profit-in-hong-kong</link>
+      <description>&lt;p&gt;The Hong Kong MTR’s ‘rail plus property’ model keep fares cheap and makes the company completely self-sustaining. Could loss-making metro systems in other cities learn lessons?&lt;/p&gt;&lt;p&gt;“Once we build the railway, the value of land rises and we capture the increase in value,” says Jacob Kam, managing director and soon-to-be chief executive, of Hong Kong’s Mass Transit Railway (MTR) Corporation.&lt;/p&gt;&lt;p&gt; &lt;span&gt;Related: &lt;/span&gt;&lt;a href="https://www.theguardian.com/world/2019/mar/18/hong-kong-faces-commuter-chaos-after-rare-train-collision"&gt;Hong Kong faces commuter chaos after rare train collision&lt;/a&gt; &lt;/p&gt; &lt;a href="https://www.theguardian.com/cities/2019/mar/19/how-public-transport-actually-turns-a-profit-in-hong-kong"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/cities/cities">Cities</category>
+      <category domain="https://www.theguardian.com/world/hong-kong">Hong Kong</category>
+      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
+      <category domain="https://www.theguardian.com/world/rail-transport">Rail transport</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/cities/city-transport">City transport</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <pubDate>Tue, 19 Mar 2019 07:00:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/cities/2019/mar/19/how-public-transport-actually-turns-a-profit-in-hong-kong</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/bd02e5981ffcfa5caf53b4261301db96f9af93be/0_31_4203_2522/master/4203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7479493339a6a21f15bdd7878fdd441">
+        <media:credit scheme="urn:ebu">Photograph: Mike Clarke/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/bd02e5981ffcfa5caf53b4261301db96f9af93be/0_31_4203_2522/master/4203.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82e1bd572d32b70a933654cd1ec7e9d0">
+        <media:credit scheme="urn:ebu">Photograph: Mike Clarke/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Matthew Keegan in Hong Kong</dc:creator>
+      <dc:date>2019-03-19T07:00:14Z</dc:date>
+    </item>
+    <item>
+      <title>The bridges that never were – in pictures</title>
+      <link>https://www.theguardian.com/cities/gallery/2019/mar/18/the-bridges-that-never-were-in-pictures</link>
+      <description>&lt;p&gt;Bridges are often defining urban features – but what if your city had chosen one of these designs instead?&lt;/p&gt; &lt;a href="https://www.theguardian.com/cities/gallery/2019/mar/18/the-bridges-that-never-were-in-pictures"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/cities/cities">Cities</category>
+      <category domain="https://www.theguardian.com/artanddesign/architecture">Architecture</category>
+      <category domain="https://www.theguardian.com/artanddesign/artanddesign">Art and design</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/australia-news/australia-news">Australia news</category>
+      <pubDate>Mon, 18 Mar 2019 11:07:23 GMT</pubDate>
+      <guid>https://www.theguardian.com/cities/gallery/2019/mar/18/the-bridges-that-never-were-in-pictures</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/0b030a8b19dbf2d21049c464200f2ba9dcbadd27/52_46_1407_844/master/1407.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78a69c6be9f4f2d7b498816c849a0d6a">
+        <media:credit scheme="urn:ebu">Photograph: 911metallurgist</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/0b030a8b19dbf2d21049c464200f2ba9dcbadd27/52_46_1407_844/master/1407.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7649f38a494cda87522f8ccef4f9288c">
+        <media:credit scheme="urn:ebu">Photograph: 911metallurgist</media:credit>
+      </media:content>
+      <dc:creator>Claire Burke</dc:creator>
+      <dc:date>2019-03-18T11:07:23Z</dc:date>
+    </item>
+    <item>
+      <title>'We are modern slaves': Mdou Moctar, the Hendrix of the Sahara</title>
+      <link>https://www.theguardian.com/music/2019/mar/21/we-are-modern-slaves-mdou-moctar-the-hendrix-of-the-sahara</link>
+      <description>&lt;p&gt;His first guitar was made from wood and bicycle parts and his first songs were shared via Bluetooth in the desert. But the Niger musician has become international – and is taking aim at France&lt;/p&gt;&lt;p&gt;How do you even dream of making music when your family and religious leaders disapprove, when you live at the edge of the Sahara desert, and you cannot afford an instrument?&lt;/p&gt;&lt;p&gt;It helps that the Tuareg musician &lt;a href="https://mdoumoctar.bandcamp.com/" title=""&gt;Mdou Moctar&lt;/a&gt;, from Niger, is not easily discouraged. Unable to acquire a guitar, he made one out of a piece of wood with brake wires from an old bicycle for strings, and taught himself to play in secret. “I was from a religious family and music was not welcome, but I would go and listen to local musicians and dream of being like them,” the 32-year-old singer-songwriter says over the phone while on tour in the US.&lt;/p&gt; &lt;a href="https://www.theguardian.com/music/2019/mar/21/we-are-modern-slaves-mdou-moctar-the-hendrix-of-the-sahara"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/music/worldmusic">World music</category>
+      <category domain="https://www.theguardian.com/music/music">Music</category>
+      <category domain="https://www.theguardian.com/world/niger">Niger</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <pubDate>Thu, 21 Mar 2019 16:00:12 GMT</pubDate>
+      <guid>https://www.theguardian.com/music/2019/mar/21/we-are-modern-slaves-mdou-moctar-the-hendrix-of-the-sahara</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/cd4b5ff5cb440114d051f82ec39dd82a3f5d020d/0_550_2344_1405/master/2344.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=47f604aae91586e126103160eb8e1bed">
+        <media:credit scheme="urn:ebu">Photograph: Picasa/Publicity image</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/cd4b5ff5cb440114d051f82ec39dd82a3f5d020d/0_550_2344_1405/master/2344.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8120caf2dbe9ad04f6348b24a149aa47">
+        <media:credit scheme="urn:ebu">Photograph: Picasa/Publicity image</media:credit>
+      </media:content>
+      <dc:creator>Kim Willsher</dc:creator>
+      <dc:date>2019-03-21T16:00:12Z</dc:date>
+    </item>
+    <item>
+      <title>Gang trio guilty of botched hit that left mother and son shot</title>
+      <link>https://www.theguardian.com/uk-news/2019/mar/21/gang-trio-guilty-botched-hit-left-mother-and-son-shot-salford</link>
+      <description>&lt;p&gt;Woman and seven-year-old boy were wounded in the legs at their Salford home in 2015&lt;/p&gt;&lt;p&gt;Three men are facing long jail sentences over a botched gangland hit in which a seven-year-old boy and his mother were shot on their doorstep.&lt;/p&gt;&lt;p&gt;Christian Hickey Jr and his mother, Jayne, were blasted in the legs with a pistol as they answered the door to their house in Winton, Salford. &lt;/p&gt; &lt;a href="https://www.theguardian.com/uk-news/2019/mar/21/gang-trio-guilty-botched-hit-left-mother-and-son-shot-salford"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/uk/salford">Salford</category>
+      <category domain="https://www.theguardian.com/uk/ukcrime">Crime</category>
+      <category domain="https://www.theguardian.com/uk/greater-manchester">Greater Manchester</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 21 Mar 2019 18:35:41 GMT</pubDate>
+      <guid>https://www.theguardian.com/uk-news/2019/mar/21/gang-trio-guilty-botched-hit-left-mother-and-son-shot-salford</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/ffc408a25a88dcefeebfc5fbf14e041d739ac9bb/0_0_2560_1536/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d61ee94be77bdf7782b840d12e0db367">
+        <media:credit scheme="urn:ebu">Composite: PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/ffc408a25a88dcefeebfc5fbf14e041d739ac9bb/0_0_2560_1536/master/2560.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cdb0e6ff69f22cf07d48444a25dabdf0">
+        <media:credit scheme="urn:ebu">Composite: PA</media:credit>
+      </media:content>
+      <dc:creator>Josh Halliday</dc:creator>
+      <dc:date>2019-03-21T18:35:41Z</dc:date>
+    </item>
+    <item>
+      <title>Brexit: Talks overrun as EU leaders discuss UK request for article 50 extension - Politics live</title>
+      <link>https://www.theguardian.com/politics/blog/live/2019/mar/21/brexit-latest-news-eu-summit-article-50-extension-theresa-may-appeal-to-nation-backfires-as-mps-accuse-her-of-stoking-hate-politics-live</link>
+      <description>&lt;p&gt;Rolling coverage of the day’s political developments as they happen, including Theresa May at the Brussels summit where EU leaders will decide whether to delay Brexit by agreeing an article 50 extension&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/politics/2019/mar/21/no-deal-brexit-emmanuel-macron-theresa-may-mps"&gt;Macron says UK heading for no deal if MPs reject May’s plan&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/politics/2019/mar/21/corbyn-not-ruling-out-revoking-article-50-to-avoid-no-deal-brexit"&gt;Corbyn refuses to rule out revoking article 50&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/politics/2019/mar/21/petitions-site-crashes-after-thousands-back-call-to-revoke-article-50"&gt;‘Revoke article 50’: petition exceeds 1m signatures amid site crashes&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="block-time published-time"&gt; &lt;time datetime="2019-03-21T19:18:30.530Z"&gt;7.18pm &lt;span class="timezone"&gt;GMT&lt;/span&gt;&lt;/time&gt; &lt;/p&gt;&lt;p&gt;More reports on what seems to be going on in the EU27 discussion.&lt;/p&gt;&lt;p&gt;These are from the Sun’s&lt;strong&gt; Nick Gutteridge.&lt;/strong&gt;&lt;/p&gt;&lt;p lang="en" dir="ltr"&gt;Latest: Understand latest talks are indeed focussing on an initial extension ending on the 7th of May. But there's a Plan B fallback of dragging it out until the end of the year so long as the UK has said before April 11 that it will hold EU elections.&lt;/p&gt;&lt;p lang="en" dir="ltr"&gt;But the discussion amongst leaders is highly fluid, so this could easily change again before the final Council conclusions are agreed.&lt;/p&gt;&lt;p lang="en" dir="ltr"&gt;Several sources reporting similar. Immediate impact would be to reduce the pressure on next week in the UK. The EU can be good at kicking the can down the road as well, as anyone who ever followed their trade talks will know. &lt;a href="https://t.co/foIGuy9xrq"&gt;https://t.co/foIGuy9xrq&lt;/a&gt;&lt;/p&gt;&lt;p lang="en" dir="ltr"&gt;I’m hearing the short extension offered will be till 7 May unless by 11 April the UK signals to EU that it is willing to take part in European Parliament elections in which case extension lasts till end of this year &lt;a href="https://twitter.com/hashtag/Brexit?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#Brexit&lt;/a&gt;&lt;/p&gt;&lt;p class="block-time published-time"&gt; &lt;time datetime="2019-03-21T19:14:55.845Z"&gt;7.14pm &lt;span class="timezone"&gt;GMT&lt;/span&gt;&lt;/time&gt; &lt;/p&gt;&lt;p&gt;And this is from the Irish Times’&lt;strong&gt; Denis Staunton.&lt;/strong&gt;&lt;/p&gt;&lt;p lang="en" dir="ltr"&gt;Hearing EU leaders could take another couple of hours to agree Brexit conclusions as discussion focuses on short extension without condition that Commons approves May’s deal next week.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/blog/live/2019/mar/21/brexit-latest-news-eu-summit-article-50-extension-theresa-may-appeal-to-nation-backfires-as-mps-accuse-her-of-stoking-hate-politics-live"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/politics/eu-referendum">Brexit</category>
+      <category domain="https://www.theguardian.com/world/eu">European Union</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <category domain="https://www.theguardian.com/politics/foreignpolicy">Foreign policy</category>
+      <category domain="https://www.theguardian.com/politics/theresamay">Theresa May</category>
+      <category domain="https://www.theguardian.com/politics/conservatives">Conservatives</category>
+      <category domain="https://www.theguardian.com/politics/jeremy-corbyn">Jeremy Corbyn</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/article-50">Article 50</category>
+      <category domain="https://www.theguardian.com/world/emmanuel-macron">Emmanuel Macron</category>
+      <category domain="https://www.theguardian.com/business/cbi">Confederation of British Industry (CBI)</category>
+      <category domain="https://www.theguardian.com/politics/tuc">TUC</category>
+      <pubDate>Thu, 21 Mar 2019 19:18:30 GMT</pubDate>
+      <guid>https://www.theguardian.com/politics/blog/live/2019/mar/21/brexit-latest-news-eu-summit-article-50-extension-theresa-may-appeal-to-nation-backfires-as-mps-accuse-her-of-stoking-hate-politics-live</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/691b9c62c8290a2d6b5ceb0b9df9c6f1b7da5ff3/0_119_3316_1990/master/3316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c65b54bc95c32d128e5bfa4f3a355948">
+        <media:credit scheme="urn:ebu">Photograph: Aris Oikonomou/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/691b9c62c8290a2d6b5ceb0b9df9c6f1b7da5ff3/0_119_3316_1990/master/3316.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56f3777c41e7d1d1469104f877f80576">
+        <media:credit scheme="urn:ebu">Photograph: Aris Oikonomou/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Andrew Sparrow</dc:creator>
+      <dc:date>2019-03-21T19:18:30Z</dc:date>
+    </item>
+    <item>
+      <title>Cyclone Idai witness describes seeing hundreds of bodies by roadside</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/cyclone-idai-mozambique-witness-describes-total-devastation-death-flood-hit-countryside</link>
+      <description>&lt;p&gt;Fears situation is far worse than official death tolls indicate, as witnesses report ‘totally obliterated’ communities &lt;/p&gt;&lt;p&gt;Entire villages have been destroyed in Mozambique and Zimbabwe and most of their inhabitants swept away, as rescuers race to save &lt;a href="https://www.theguardian.com/world/2019/mar/20/cyclone-idai-rising-flood-levels-threaten-mozambique-disaster-relief-effort"&gt;tens of thousands of people trapped by flood waters&lt;/a&gt; from Cyclone Idai.&lt;/p&gt;&lt;p&gt;Testimony collected from areas entirely cut off by flooding shows a situation far worse than indicated by official figures, with estimates from some witnessessuggesting that the death toll will reach the thousands.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/cyclone-idai-mozambique-witness-describes-total-devastation-death-flood-hit-countryside"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/cyclone-idai">Cyclone Idai</category>
+      <category domain="https://www.theguardian.com/world/mozambique">Mozambique</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/zimbabwe">Zimbabwe</category>
+      <pubDate>Thu, 21 Mar 2019 18:39:42 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/cyclone-idai-mozambique-witness-describes-total-devastation-death-flood-hit-countryside</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/bcc4615f10f225b23ceda7725035c73e62f43b9c/1_0_2836_1702/master/2836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=258d01076dbe5586f0d00191da2bed0d">
+        <media:credit scheme="urn:ebu">Photograph: Aaron Ufumeli/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/bcc4615f10f225b23ceda7725035c73e62f43b9c/1_0_2836_1702/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e4f32dc29f9fcd3d0f7b0675d72fef5">
+        <media:credit scheme="urn:ebu">Photograph: Aaron Ufumeli/EPA</media:credit>
+      </media:content>
+      <dc:creator>Ruth Maclean and Peter Beaumont in Beira</dc:creator>
+      <dc:date>2019-03-21T18:39:42Z</dc:date>
+    </item>
+    <item>
+      <title>Wisconsin judge blocks Republican bid to weaken governor and erode voting rights</title>
+      <link>https://www.theguardian.com/us-news/2019/mar/21/wisconsin-judge-tony-evers-democrats-republicans</link>
+      <description>&lt;p&gt;Democrats condemned laws passed during lame-duck session after Republicans lost governorship as illegal power-grab &lt;/p&gt;&lt;p&gt;A Wisconsin judge has temporarily blocked Republican laws that curtailed the powers of a newly elected Democratic governor and rolled back voting rights across the state.&lt;/p&gt;&lt;p&gt; &lt;span&gt;Related: &lt;/span&gt;&lt;a href="https://www.theguardian.com/us-news/2019/mar/21/john-mccain-daughter-bridget-trump-attack-response-latest"&gt;John McCain's daughter issues rare public statement condemning Trump&lt;/a&gt; &lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2019/mar/21/wisconsin-judge-tony-evers-democrats-republicans"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/wisconsin">Wisconsin</category>
+      <category domain="https://www.theguardian.com/us-news/democrats">Democrats</category>
+      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 21 Mar 2019 19:17:53 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2019/mar/21/wisconsin-judge-tony-evers-democrats-republicans</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/068342df29b3686613549b7861c0e0815af91877/0_200_3000_1800/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4a586b241feb8ec5a514480c72ff5b8">
+        <media:credit scheme="urn:ebu">Photograph: Scott Olson/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/068342df29b3686613549b7861c0e0815af91877/0_200_3000_1800/master/3000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=905859a6d79e7a4b005ecc9544e115e7">
+        <media:credit scheme="urn:ebu">Photograph: Scott Olson/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Oliver Laughland</dc:creator>
+      <dc:date>2019-03-21T19:17:53Z</dc:date>
+    </item>
+    <item>
+      <title>Labor pledges $60m to divert vulnerable borrowers from payday lenders</title>
+      <link>https://www.theguardian.com/australia-news/2019/mar/22/labor-pledges-60m-to-divert-vulnerable-borrowers-from-payday-lenders</link>
+      <description>&lt;p&gt;Plan would enable 76,800 low-cost loans each year to those in financial hardship&lt;/p&gt;&lt;p&gt;Labor has pledged $60m for financial services that divert vulnerable borrowers from high-interest payday lenders.&lt;/p&gt;&lt;p&gt;The policy picks up on the &lt;a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Creditfinancialservices/Report"&gt;recommendation of a Senate inquiry&lt;/a&gt; to expand &lt;a href="https://nils.com.au/"&gt;no interest loans schemes&lt;/a&gt; to prevent low-income Australians being plunged into a cycle of debt due to unexpected expenses such as medical procedures and broken household appliances.&lt;/p&gt; &lt;a href="https://www.theguardian.com/australia-news/2019/mar/22/labor-pledges-60m-to-divert-vulnerable-borrowers-from-payday-lenders"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/australia-news/labor-party">Labor party</category>
+      <category domain="https://www.theguardian.com/money/payday-loans">Payday loans</category>
+      <category domain="https://www.theguardian.com/australia-news/australia-news">Australia news</category>
+      <category domain="https://www.theguardian.com/australia-news/australian-politics">Australian politics</category>
+      <pubDate>Thu, 21 Mar 2019 17:00:17 GMT</pubDate>
+      <guid>https://www.theguardian.com/australia-news/2019/mar/22/labor-pledges-60m-to-divert-vulnerable-borrowers-from-payday-lenders</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/28fefb4e92c76a3d3de38146434560c37efc7145/0_0_620_372/master/620.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ded02901e3f4f5c362ed9d082820fd3">
+        <media:credit scheme="urn:ebu">Photograph: Alamy/ALAMY</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/28fefb4e92c76a3d3de38146434560c37efc7145/0_0_620_372/master/620.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b99c5c775c33a1fb02e61fa91b442ab1">
+        <media:credit scheme="urn:ebu">Photograph: Alamy/ALAMY</media:credit>
+      </media:content>
+      <dc:creator>Paul Karp</dc:creator>
+      <dc:date>2019-03-21T17:00:17Z</dc:date>
+    </item>
+    <item>
+      <title>UN to explore wave of deaths linked to food aid porridge in Uganda</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/21/un-to-explore-wave-of-deaths-linked-to-food-aid-porridge-in-uganda-world-food-programme</link>
+      <description>&lt;p&gt;World Food Programme halts distribution of fortified cereal as four people die and hundreds suffer suspected food poisoning&lt;/p&gt;&lt;p&gt;The World Food Programme and Ugandan government have launched an investigation into deaths linked with the distribution of fortified porridge to refugees and people suffering from malnourishment.&lt;/p&gt;&lt;p&gt;The health ministry was alerted to reports of possible food poisoning among people who had consumed Super Cereal, a blended food designed to prevent malnutrition, in the north-east region of Karamoja on 12 March.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/21/un-to-explore-wave-of-deaths-linked-to-food-aid-porridge-in-uganda-world-food-programme"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/global-health">Global health</category>
+      <category domain="https://www.theguardian.com/world/uganda">Uganda</category>
+      <category domain="https://www.theguardian.com/global-development/aid">Aid</category>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/unitednations">United Nations</category>
+      <category domain="https://www.theguardian.com/global-development/hunger">Hunger</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <pubDate>Thu, 21 Mar 2019 13:27:17 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/21/un-to-explore-wave-of-deaths-linked-to-food-aid-porridge-in-uganda-world-food-programme</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/cf56d5edb8d8d4bd3995665207ec6f043ed220fd/0_173_4000_2400/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d28ff51c8998634ded56ce0f788a9e90">
+        <media:credit scheme="urn:ebu">Photograph: Dan Kitwood/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/cf56d5edb8d8d4bd3995665207ec6f043ed220fd/0_173_4000_2400/master/4000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04be917baf3805b414be962c8894f227">
+        <media:credit scheme="urn:ebu">Photograph: Dan Kitwood/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Samuel Okiror in Kampala</dc:creator>
+      <dc:date>2019-03-21T13:27:17Z</dc:date>
+    </item>
+    <item>
+      <title>'It's a godsend': the healthcare scheme bringing hope to India's sick</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/21/godsend-healthcare-scheme-bringing-hope-india-sick-ayushman-bharat</link>
+      <description>&lt;p&gt;In a country where treatment can cost two years’ wages, a new project could mean free medical care for 500 million people&lt;/p&gt;&lt;p&gt;Rajiv Gupta has a distinct spring in his step. He has brought his mother to New Delhi from the northern state of Bihar for a hip replacement, for which he won’t have to pay. His mother qualified for free treatment under &lt;a href="https://www.pmjay.gov.in/"&gt;Ayushman Bharat&lt;/a&gt;, the government’s ambitious new health insurance scheme.&lt;/p&gt;&lt;p&gt;“I can’t quite believe this is happening. When the doctors in Bihar told me it would cost 200,000 rupees [£2,180], I took mum home. That kind of money is impossible for me. I just run a tiny sari shop. And now she’s getting it done here free,” says Gupta. Then he hurries off as though scared he has got it wrong and someone is going to present him with a bill.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/21/godsend-healthcare-scheme-bringing-hope-india-sick-ayushman-bharat"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/global-health">Global health</category>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/world/india">India</category>
+      <category domain="https://www.theguardian.com/world/south-and-central-asia">South and Central Asia</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 21 Mar 2019 05:00:10 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/21/godsend-healthcare-scheme-bringing-hope-india-sick-ayushman-bharat</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/5d3ee4d6e8da96f239e78275b22c6e8fafa5fa13/0_109_4128_2477/master/4128.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e44c52b0e43b0b13a59ff6be1c8f9871">
+        <media:credit scheme="urn:ebu">Photograph: Amrit Dhillon</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/5d3ee4d6e8da96f239e78275b22c6e8fafa5fa13/0_109_4128_2477/master/4128.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7eaaae7da89147a7bda572cc11e2eba">
+        <media:credit scheme="urn:ebu">Photograph: Amrit Dhillon</media:credit>
+      </media:content>
+      <dc:creator>Amrit Dhillon in Delhi and Haryana</dc:creator>
+      <dc:date>2019-03-21T05:00:10Z</dc:date>
+    </item>
+    <item>
+      <title>Britain's arms export watchdog in danger of becoming toothless</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/20/britain-arms-export-watchdog-in-danger-of-becoming-toothless</link>
+      <description>&lt;p&gt;As ministers and weapons manufacturers alike shun the body that oversees UK arms exports, its authority is at risk of being eroded&lt;/p&gt;&lt;p&gt;As Britain’s foreign secretary&lt;a href="https://www.theguardian.com/world/2019/feb/13/time-running-out-to-turn-yemen-ceasefire-into-peace-says-hunt"&gt; warns&lt;/a&gt; of “a shortening window of opportunity” for peace in Yemen, the hours are also counting down for weapons manufacturer Raytheon UK to explain its activities to the government’s committees on arms export control (CAEC).&lt;/p&gt;&lt;p&gt;Raytheon, the world’s &lt;a href="https://www.forbes.com/sites/niallmccarthy/2017/12/11/the-worlds-biggest-arms-companies-infographic/#64683a05475a"&gt;third largest manufacturer&lt;/a&gt;, was called upon to give live evidence on Wednesday. However, the company has effectively avoided face-to-face scrutiny by simply declining to attend.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/20/britain-arms-export-watchdog-in-danger-of-becoming-toothless"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/conflict-and-development">Conflict and arms</category>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/world/arms-trade">Arms trade</category>
+      <category domain="https://www.theguardian.com/world/yemen">Yemen</category>
+      <category domain="https://www.theguardian.com/global-development/governance-and-development">Governance</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Wed, 20 Mar 2019 14:03:08 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/20/britain-arms-export-watchdog-in-danger-of-becoming-toothless</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/8bf2f0d0bb4da05e3d033ffb9b4800800f9c9019/0_209_3600_2161/master/3600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=222f92e02d34569815a28a0affae0e55">
+        <media:credit scheme="urn:ebu">Photograph: NEIL BRYDEN/MOD /HANDOUT/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/8bf2f0d0bb4da05e3d033ffb9b4800800f9c9019/0_209_3600_2161/master/3600.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b580d8b43fa505edfc252437b6da04e">
+        <media:credit scheme="urn:ebu">Photograph: NEIL BRYDEN/MOD /HANDOUT/EPA</media:credit>
+      </media:content>
+      <dc:creator>Rod Austin</dc:creator>
+      <dc:date>2019-03-20T14:03:08Z</dc:date>
+    </item>
+    <item>
+      <title>Key to saving lives of newborns lies in half a teaspoon of blood, study claims</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/20/key-to-saving-lives-newborns-half-a-teaspoon-of-blood-study-claims</link>
+      <description>&lt;p&gt;Research reveals striking changes in babies’ immune development that could form the basis for lifesaving vaccines&lt;/p&gt;&lt;p&gt;A groundbreaking study has claimed that the key to saving the lives of newborns is found in just half a teaspoon of blood.&lt;/p&gt;&lt;p&gt;Research has revealed dramatic changes in the immune systems of newborns, which scientists say could transform our understanding of disease in babies.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/20/key-to-saving-lives-newborns-half-a-teaspoon-of-blood-study-claims"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/global-health">Global health</category>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/science/immunology">Immunology</category>
+      <category domain="https://www.theguardian.com/science/medical-research">Medical research</category>
+      <category domain="https://www.theguardian.com/science/science">Science</category>
+      <category domain="https://www.theguardian.com/society/vaccines">Vaccines and immunisation</category>
+      <category domain="https://www.theguardian.com/society/health">Health</category>
+      <pubDate>Wed, 20 Mar 2019 07:30:08 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/20/key-to-saving-lives-newborns-half-a-teaspoon-of-blood-study-claims</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/351e9228a73310d1fc08a5c1822f11179c9179c5/0_0_900_540/master/900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3e9f9b1ee2fa543c369a1fb2f4b18f0">
+        <media:credit scheme="urn:ebu">Photograph: Courtesy of MRC</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/351e9228a73310d1fc08a5c1822f11179c9179c5/0_0_900_540/master/900.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f282f509aae4e6dfdfc81b9b0ad6664">
+        <media:credit scheme="urn:ebu">Photograph: Courtesy of MRC</media:credit>
+      </media:content>
+      <dc:creator>Karen McVeigh</dc:creator>
+      <dc:date>2019-03-20T07:30:08Z</dc:date>
+    </item>
+    <item>
+      <title>The campaign for a 'drug-free world' is costing lives | Louise Arbour and Mohamed ElBaradei</title>
+      <link>https://www.theguardian.com/global-development/2019/mar/20/the-campaign-for-a-drug-free-world-is-costing-lives</link>
+      <description>&lt;p&gt;Global policy on drug control is unrealistic, and has taken a harsh toll on millions of the world’s poorest people&lt;/p&gt;&lt;p&gt;Drug control efforts across the world are a threat to human dignity and the right to life.&lt;/p&gt;&lt;p&gt;In 2017, &lt;a href="https://www.theguardian.com/us-news/2018/aug/16/us-drug-overdose-deaths-opioids-fentanyl-cdc"&gt;more than 70,000 people died from a drug overdose in the &lt;/a&gt;&lt;a href="https://www.theguardian.com/us-news/2018/aug/16/us-drug-overdose-deaths-opioids-fentanyl-cdc"&gt;US&lt;/a&gt;. Among the reasons for these deaths are the lack of access to health and harm-reduction services, as well as the fear of legal repression, which often dissuades people who use drugs from asking for help.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2019/mar/20/the-campaign-for-a-drug-free-world-is-costing-lives"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/global-development/global-health">Global health</category>
+      <category domain="https://www.theguardian.com/society/drugs">Drugs</category>
+      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
+      <category domain="https://www.theguardian.com/world/colombia">Colombia</category>
+      <category domain="https://www.theguardian.com/world/americas">Americas</category>
+      <category domain="https://www.theguardian.com/world/philippines">Philippines</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Wed, 20 Mar 2019 07:00:05 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2019/mar/20/the-campaign-for-a-drug-free-world-is-costing-lives</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a44f1075b94ebc34e1c98b4eb4a0b3fe6584621a/0_141_5657_3394/master/5657.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=289519c58f22e8893eaf3d7d3a66375c">
+        <media:credit scheme="urn:ebu">Photograph: Yana Paskova/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a44f1075b94ebc34e1c98b4eb4a0b3fe6584621a/0_141_5657_3394/master/5657.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=633aa78ba6fb7a185914b47b1d10d794">
+        <media:credit scheme="urn:ebu">Photograph: Yana Paskova/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Louise Arbour and Mohamed ElBaradei</dc:creator>
+      <dc:date>2019-03-20T07:00:05Z</dc:date>
+    </item>
+    <item>
+      <title>Cyclone Idai brings devastation to Mozambique – visual guide</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/cyclone-idai-floods-mozambique-zimbabwe-visual-guide</link>
+      <description>&lt;p&gt;Rescuers race to reach tens of thousands of people trapped by vast areas of flooding &lt;/p&gt;&lt;p&gt;Idai first hit Mozambique on 4 March as a tropical depression with torrential rain that also affected southern Malawi. It then changed course, moving back over the sea where the storm strengthened to a cyclone with the equivalent force of a category 3 hurricane.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/cyclone-idai-floods-mozambique-zimbabwe-visual-guide"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/cyclone-idai">Cyclone Idai</category>
+      <category domain="https://www.theguardian.com/world/mozambique">Mozambique</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/natural-disasters">Natural disasters and extreme weather</category>
+      <category domain="https://www.theguardian.com/world/zimbabwe">Zimbabwe</category>
+      <pubDate>Thu, 21 Mar 2019 17:54:33 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/cyclone-idai-floods-mozambique-zimbabwe-visual-guide</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/339ea6387e7221a1c8c4f6bd763458d79bf0d056/15_0_1899_1140/master/1899.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72a7eac4dffaa14094c07c6335c663ad">
+        <media:credit scheme="urn:ebu">Photograph: Paul Scruton/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/339ea6387e7221a1c8c4f6bd763458d79bf0d056/15_0_1899_1140/master/1899.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bb37dc207b4f66aa9764ec171648257">
+        <media:credit scheme="urn:ebu">Photograph: Paul Scruton/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Paul Torpey, Paul Scruton, Pablo Gutiérrez, Niko Kommenda  and Cath Levett</dc:creator>
+      <dc:date>2019-03-21T17:54:33Z</dc:date>
+    </item>
+    <item>
+      <title>New Zealand asks: how was the threat from the far right missed?</title>
+      <link>https://www.theguardian.com/world/2019/mar/21/new-zealand-asks-how-was-the-threat-from-the-far-right-missed</link>
+      <description>&lt;p&gt;Muslim associations have expressed despair that no one in government heeded their warnings about a rise in racism and violence&lt;/p&gt;&lt;p&gt;As the alleged killer sits in an isolated, maximum security jail cell on the outskirts of Christchurch, many people in New Zealand are wondering how an alt-right extremist who allegedly amassed an arsenal of military grade weapons went undetected for so long.&lt;/p&gt;&lt;p&gt;Holed up in a wooden bungalow in the seaside town of Dunedin, the alleged shooter was an active member of the local gun club and pumped weights at a South Dunedin gym. He was quiet, but not reclusive, and appears to have made no effort to hide his obsession with military grade weaponry.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2019/mar/21/new-zealand-asks-how-was-the-threat-from-the-far-right-missed"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/world/christchurch">Christchurch</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/newzealand">New Zealand</category>
+      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
+      <category domain="https://www.theguardian.com/world/far-right">The far right</category>
+      <pubDate>Wed, 20 Mar 2019 23:44:22 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2019/mar/21/new-zealand-asks-how-was-the-threat-from-the-far-right-missed</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/34497404b6be98a4779842dc02a349625b5b1fa1/0_320_4752_2852/master/4752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6653ba4b7bc0020dce463ffae74ac8a3">
+        <media:credit scheme="urn:ebu">Photograph: Anadolu Agency/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/34497404b6be98a4779842dc02a349625b5b1fa1/0_320_4752_2852/master/4752.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a320857900647b34dd06d6a0965bf044">
+        <media:credit scheme="urn:ebu">Photograph: Anadolu Agency/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Eleanor Ainge Roy in Christchurch and Michael McGowan</dc:creator>
+      <dc:date>2019-03-20T23:44:22Z</dc:date>
+    </item>
+    <item>
+      <title>Eco-fascism is undergoing a revival in the fetid culture of the extreme right | Jason Wilson</title>
+      <link>https://www.theguardian.com/world/commentisfree/2019/mar/20/eco-fascism-is-undergoing-a-revival-in-the-fetid-culture-of-the-extreme-right</link>
+      <description>&lt;p&gt;Some see looming ecological collapse as an opportunity to re-order society along their preferred, frankly genocidal, lines&lt;/p&gt;&lt;p&gt;In his shoddy manifesto, the accused shooter in Christchurch identified as an “eco-fascist”.&lt;/p&gt;&lt;p&gt;Over the weekend Kellyanne Conway &lt;a href="https://www.washingtonexaminer.com/news/white-house/kellyanne-conway-calls-new-zealand-shooter-an-eco-terrorist-rejects-his-claim-trump-is-a-symbol-of-white-identity"&gt;seized on the term&lt;/a&gt; – which is unfamiliar to many – to lump him in with so-called “eco-terrorists”, saying “He’s not a conservative. He’s not a Nazi.” No doubt she was banking on common understandings of contemporary environmentalism to draw a link to the political left.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/commentisfree/2019/mar/20/eco-fascism-is-undergoing-a-revival-in-the-fetid-culture-of-the-extreme-right"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/far-right">The far right</category>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/environment/climate-change">Climate change</category>
+      <pubDate>Tue, 19 Mar 2019 17:00:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/commentisfree/2019/mar/20/eco-fascism-is-undergoing-a-revival-in-the-fetid-culture-of-the-extreme-right</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/47a7bf4e6758e5f3b4690df1a01cbf291b0392cb/0_336_5104_3063/master/5104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66c2ea32301a6e677a0005770a2d77b2">
+        <media:credit scheme="urn:ebu">Photograph: Josh Edelson/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/47a7bf4e6758e5f3b4690df1a01cbf291b0392cb/0_336_5104_3063/master/5104.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7384b217c588cf27760f5fdd305cddf7">
+        <media:credit scheme="urn:ebu">Photograph: Josh Edelson/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Jason Wilson</dc:creator>
+      <dc:date>2019-03-19T17:00:24Z</dc:date>
+    </item>
+    <item>
+      <title>After the Christchurch massacre, how do we deal with the trauma and outrage? | Sara Mansour</title>
+      <link>https://www.theguardian.com/world/commentisfree/2019/mar/19/after-the-christchurch-massacre-how-do-we-deal-with-the-trauma-and-outrage</link>
+      <description>&lt;p&gt;When someone makes an inappropriate joke, or when a senator makes incendiary remarks, speak up&lt;/p&gt;&lt;p&gt;When I walked into work on Monday I told myself I was going to be strong. Then an Indigenous colleague pulled me aside and hugged me and I crumbled in her arms. She told me that the Indigenous community was so sorry for what has happened to our community, and we talked and cried. I, like many other Muslims, have felt the pain of the Christchurch mosque massacre so viscerally.&lt;/p&gt;&lt;p&gt;I was so shaken that I did not step out at all over the weekend.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/commentisfree/2019/mar/19/after-the-christchurch-massacre-how-do-we-deal-with-the-trauma-and-outrage"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/world/christchurch">Christchurch</category>
+      <category domain="https://www.theguardian.com/world/newzealand">New Zealand</category>
+      <category domain="https://www.theguardian.com/world/islam">Islam</category>
+      <category domain="https://www.theguardian.com/australia-news/australia-news">Australia news</category>
+      <pubDate>Mon, 18 Mar 2019 22:44:15 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/commentisfree/2019/mar/19/after-the-christchurch-massacre-how-do-we-deal-with-the-trauma-and-outrage</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/b8ca91e9761127509457a366ccec52049cdd2155/18_0_613_368/master/613.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04063204f6d59a4d9aca70ca07111a87">
+        <media:credit scheme="urn:ebu">Photograph: Supplied</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/b8ca91e9761127509457a366ccec52049cdd2155/18_0_613_368/master/613.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=696780192404851a516c2bfc77985531">
+        <media:credit scheme="urn:ebu">Photograph: Supplied</media:credit>
+      </media:content>
+      <dc:creator>Sara Mansour</dc:creator>
+      <dc:date>2019-03-18T22:44:15Z</dc:date>
+    </item>
+    <item>
+      <title>Celebrating Purim in Manchester – in pictures</title>
+      <link>https://www.theguardian.com/world/gallery/2019/mar/21/celebrating-purim-in-manchester-in-pictures</link>
+      <description>&lt;p&gt;Orthodox Jewish children in fancy dress and adults take to the streets of Broughton in Greater Manchester to celebrate the annual feast of Purim, celebrated by Jewish communities around the world with parades and costume parties. Purim commemorates the defeat of Haman, the adviser to the Persian king, and his plot to massacre the Jewish people, 2,500 years ago, as recorded in the biblical book of Esther.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/gallery/2019/mar/21/celebrating-purim-in-manchester-in-pictures"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/judaism">Judaism</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/world/religion">Religion</category>
+      <category domain="https://www.theguardian.com/culture/festivals">Festivals</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <category domain="https://www.theguardian.com/artanddesign/photography">Photography</category>
+      <category domain="https://www.theguardian.com/uk/manchester">Manchester</category>
+      <category domain="https://www.theguardian.com/uk/greater-manchester">Greater Manchester</category>
+      <pubDate>Thu, 21 Mar 2019 17:24:36 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/gallery/2019/mar/21/celebrating-purim-in-manchester-in-pictures</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/49fe6873670e95cee5242956c2b796c7ef28c43f/915_502_5805_3483/master/5805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bcff65c32d579d2d5a82c5c4cd4a9ab">
+        <media:credit scheme="urn:ebu">Photograph: Christopher Thomond/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/49fe6873670e95cee5242956c2b796c7ef28c43f/915_502_5805_3483/master/5805.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0be2578bf41afc51ca639d326ce118e6">
+        <media:credit scheme="urn:ebu">Photograph: Christopher Thomond/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Christopher Thomond</dc:creator>
+      <dc:date>2019-03-21T17:24:36Z</dc:date>
+    </item>
+    <item>
+      <title>UK heading for no-deal Brexit if MPs reject agreement, says Macron – video</title>
+      <link>https://www.theguardian.com/world/video/2019/mar/21/uk-heading-for-no-deal-brexit-if-mps-reject-agreement-says-macron-video</link>
+      <description>&lt;p&gt;The French president has said that if British MPs reject Theresa May's withdrawal deal next week, it will 'guide everybody to a no-deal [Brexit]'. Emmanuel Macron also said the EU and the UK could agree a technical extension if the House of Commons were to vote in favour&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/video/2019/mar/21/uk-heading-for-no-deal-brexit-if-mps-reject-agreement-says-macron-video"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/emmanuel-macron">Emmanuel Macron</category>
+      <category domain="https://www.theguardian.com/politics/eu-referendum">Brexit</category>
+      <category domain="https://www.theguardian.com/world/france">France</category>
+      <category domain="https://www.theguardian.com/politics/theresamay">Theresa May</category>
+      <category domain="https://www.theguardian.com/world/eu">European Union</category>
+      <category domain="https://www.theguardian.com/politics/article-50">Article 50</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <pubDate>Thu, 21 Mar 2019 15:53:30 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/video/2019/mar/21/uk-heading-for-no-deal-brexit-if-mps-reject-agreement-says-macron-video</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7239234825978be3a1e40b552ab3318958dd78fb/0_73_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=358330d1c569a05fe9318b12f4f5a380">
+        <media:credit scheme="urn:ebu">Photograph: EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7239234825978be3a1e40b552ab3318958dd78fb/0_73_5000_3000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79c9f72f53987319085aeda26e22d69a">
+        <media:credit scheme="urn:ebu">Photograph: EPA</media:credit>
+      </media:content>
+      <dc:creator />
+      <dc:date>2019-03-21T15:53:30Z</dc:date>
+    </item>
+    <item>
+      <title>Witness describes flood-hit Mozambique: 'We just saw total devastation'  – audio</title>
+      <link>https://www.theguardian.com/world/video/2019/mar/21/witness-describes-flood-hit-mozambique-devastation-audio</link>
+      <description>&lt;p&gt;In the aftermath of Cyclone Idai, Zimbabwean Graham Taylor has described the ‘total devastation, carnage and deaths’. Taylor was travelling through the flood-hit countryside of Mozambique. ‘As far as I could look and walk I came across two, three, four hundred bodies floating and on the side of the road,’ he said&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/video/2019/mar/21/witness-describes-flood-hit-mozambique-devastation-audio"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/cyclone-idai">Cyclone Idai</category>
+      <category domain="https://www.theguardian.com/world/mozambique">Mozambique</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/natural-disasters">Natural disasters and extreme weather</category>
+      <category domain="https://www.theguardian.com/environment/flooding">Flooding</category>
+      <pubDate>Thu, 21 Mar 2019 13:11:45 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/video/2019/mar/21/witness-describes-flood-hit-mozambique-devastation-audio</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/4ba4c2173e3791e5cb991f3ebc4dbae8697ad332/110_0_1800_1080/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eadd630b937afd707afbff63dd2d450b">
+        <media:credit scheme="urn:ebu">Photograph: Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/4ba4c2173e3791e5cb991f3ebc4dbae8697ad332/110_0_1800_1080/master/1800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34e0c28a07ef5dab77a9d91ad495405f">
+        <media:credit scheme="urn:ebu">Photograph: Guardian</media:credit>
+      </media:content>
+      <dc:creator>Nicholas Williams</dc:creator>
+      <dc:date>2019-03-21T13:11:45Z</dc:date>
+    </item>
+    <item>
+      <title>Donald Trump: 'I wasn't a fan of John McCain' – video</title>
+      <link>https://www.theguardian.com/us-news/video/2019/mar/21/donald-trump-i-wasnt-a-fan-of-john-mccain-video</link>
+      <description>&lt;p&gt;Donald Trump has received widespread criticism for his comments about the late senator John McCain. The US president was speaking at a rally in Ohio when he revealed that he 'never liked' the Arizona Republican and 'probably never will'&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.theguardian.com/us-news/2019/mar/20/donald-trump-john-mccain-attack"&gt;'New bizarre low': Trump faces backlash after reviving McCain attacks&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;a href="https://www.theguardian.com/us-news/video/2019/mar/21/donald-trump-i-wasnt-a-fan-of-john-mccain-video"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/johnmccain">John McCain</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/us-news/ohio">Ohio</category>
+      <pubDate>Thu, 21 Mar 2019 07:26:29 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/video/2019/mar/21/donald-trump-i-wasnt-a-fan-of-john-mccain-video</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/838f06b6b82cd451ebcb93ec593b19c1a6d42d8f/356_359_4383_2630/master/4383.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72d13c5cac8e97ba5d6239cfe0d25c64">
+        <media:credit scheme="urn:ebu">Photograph: Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/838f06b6b82cd451ebcb93ec593b19c1a6d42d8f/356_359_4383_2630/master/4383.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d568e27ce63338482234577692e5769c">
+        <media:credit scheme="urn:ebu">Photograph: Getty Images</media:credit>
+      </media:content>
+      <dc:creator />
+      <dc:date>2019-03-21T07:26:29Z</dc:date>
+    </item>
+    <item>
+      <title>Holi: a festival of colours – in pictures</title>
+      <link>https://www.theguardian.com/world/gallery/2019/mar/21/holi-a-festival-of-colours-in-pictures</link>
+      <description>&lt;p&gt;The Hindu festival of Holi is under way in India. The two-day celebration signifies the victory of good over evil and marks the end of winter and the arrival of spring. Its origins can be found in Hindu mythology, while the use of colour is tied to stories about Lord Krishna&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/gallery/2019/mar/21/holi-a-festival-of-colours-in-pictures"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/india">India</category>
+      <category domain="https://www.theguardian.com/world/hinduism">Hinduism</category>
+      <category domain="https://www.theguardian.com/world/religion">Religion</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/culture/festivals">Festivals</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <category domain="https://www.theguardian.com/world/south-and-central-asia">South and Central Asia</category>
+      <pubDate>Thu, 21 Mar 2019 07:00:13 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/gallery/2019/mar/21/holi-a-festival-of-colours-in-pictures</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/8abf2123b5f572b928a5cda64be3cd7843eb697d/0_144_4692_2815/master/4692.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0308d22286138c5929969722c7018593">
+        <media:credit scheme="urn:ebu">Photograph: Raminder Pal Singh/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/8abf2123b5f572b928a5cda64be3cd7843eb697d/0_144_4692_2815/master/4692.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17b7b29e315a04a517f7694846af4a9f">
+        <media:credit scheme="urn:ebu">Photograph: Raminder Pal Singh/EPA</media:credit>
+      </media:content>
+      <dc:creator>Photographs selected by Natasha Rees-Bloor</dc:creator>
+      <dc:date>2019-03-21T07:00:13Z</dc:date>
+    </item>
+    <item>
+      <title>New Zealand introduces major changes to gun laws – video</title>
+      <link>https://www.theguardian.com/world/video/2019/mar/21/new-zealand-introduces-major-changes-to-gun-laws-video</link>
+      <description>&lt;p&gt;New Zealand has &lt;a href="https://www.theguardian.com/world/2019/mar/21/new-zealand-brings-in-sweeping-gun-law-changes-in-wake-of-christchurch-attacks"&gt;banned military-style semi-automatic guns and assault rifles&lt;/a&gt; under tough new laws following the attacks on two Christchurch mosques. The changes, announced on Thursday by the prime minister, Jacinda Ardern, also include a gun buyback scheme. The gun-law changes were effective immediately.&amp;nbsp;&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/video/2019/mar/21/new-zealand-introduces-major-changes-to-gun-laws-video"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/newzealand">New Zealand</category>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/world/jacinda-ardern">Jacinda Ardern</category>
+      <pubDate>Thu, 21 Mar 2019 05:31:22 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/video/2019/mar/21/new-zealand-introduces-major-changes-to-gun-laws-video</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/f75abd2d6dee6707790439118ac8966231dfe29c/966_1365_5192_3115/master/5192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41acccb39c05155cc78c33fef3b86bfc">
+        <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/f75abd2d6dee6707790439118ac8966231dfe29c/966_1365_5192_3115/master/5192.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7cf5ac04960dc6cc4e55e5fcaa2b112">
+        <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator />
+      <dc:date>2019-03-21T05:31:22Z</dc:date>
+    </item>
+    <item>
+      <title>Christchurch pupils perform haka for Jacinda Ardern – video</title>
+      <link>https://www.theguardian.com/world/video/2019/mar/20/christchurch-pupils-perform-haka-for-jacinda-ardern-video</link>
+      <description>&lt;p&gt;New Zealand prime minister &lt;a href="https://www.theguardian.com/world/2019/mar/20/christchurch-mosque-attacks-burials-begin-as-ardern-urges-students-to-reject-hate"&gt;Jacinda Ardern has returned to Christchurch&lt;/a&gt; for her second visit since Friday's massacre in which 50 people were killed. First stop on her schedule was the Cashmere high school, to talk to staff and pupils about the attack, in which two students and a former student were killed. On arrival at the school, Ardern was greeted with a traditional haka ceremonial dance performed by students and teachers&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/video/2019/mar/20/christchurch-pupils-perform-haka-for-jacinda-ardern-video"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/christchurch-shooting">Christchurch shooting</category>
+      <category domain="https://www.theguardian.com/world/jacinda-ardern">Jacinda Ardern</category>
+      <category domain="https://www.theguardian.com/world/newzealand">New Zealand</category>
+      <category domain="https://www.theguardian.com/world/christchurch">Christchurch</category>
+      <pubDate>Wed, 20 Mar 2019 01:24:04 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/video/2019/mar/20/christchurch-pupils-perform-haka-for-jacinda-ardern-video</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/3e0a23260acfe1278fb1c554f6e846c98a5085ac/51_8_1781_1068/master/1781.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd3005ee9ce73736ffe583f6ed3bba5b">
+        <media:credit scheme="urn:ebu">Photograph: AP Photo/Vincent Thian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/3e0a23260acfe1278fb1c554f6e846c98a5085ac/51_8_1781_1068/master/1781.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf75ce8784688eb3b1434dd786d36a20">
+        <media:credit scheme="urn:ebu">Photograph: AP Photo/Vincent Thian</media:credit>
+      </media:content>
+      <dc:creator />
+      <dc:date>2019-03-20T01:24:04Z</dc:date>
+    </item>
+  </channel>
+</rss>
+
